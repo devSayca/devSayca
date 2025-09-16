@@ -2,7 +2,7 @@
 
 **Étudiant-développeur IA & Big Data · Design d’écosystèmes cognitifs et de graphismes**
 
-![Bannière](banner.png)
+![Bannière](compactbanner.png)
 
 ---
 
