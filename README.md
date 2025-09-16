@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 À propos de moi
-- **Sayca Labs**, c'est la holding de mes projets, c'est ma resprésentation légale (et malheureusement fiscale)
+- **Sayca Labs** : holding de tous mes projets, c'est ma resprésentation légale (et malheureusement fiscale)
 - Co-fondateur de **Sailor Energy**, marque de boissons personnalisées (courtier & designer produit)  
 - Créateur d’outils d’**augmentation cognitive** : productivité, automation, architectures informationnelles  
 - En route pour **École 42 Nice** (tronc commun dès novembre 2025)
