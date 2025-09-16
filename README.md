@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Sayca
 
-**Entrepreneur créatif · Développeur IA & Big Data · Designer d’écosystèmes cognitifs**
+**Étudiant-développeur IA & Big Data · Design d’écosystèmes cognitifs et de graphismes**
 
 ![Bannière](banner.png)
 
