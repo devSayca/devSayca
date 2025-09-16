@@ -2,6 +2,8 @@
 
 **Entrepreneur créatif · Développeur IA & Big Data · Designer d’écosystèmes cognitifs**
 
+![Bannière](assets/banner.png)
+
 ---
 
 ## 🧠 À propos de moi
