@@ -29,6 +29,22 @@
 
 ---
 
+### ✅ Compétences déjà acquises / entraînées
+- Prompt engineering avancé : j’ai développé mon propre protocole superviseur/processeur et je maîtrise l’architecture des prompts.  
+- Architecture informationnelle : je sais formaliser des flux S↔P, manifester les responsabilités et définir des guidelines.  
+- UX cognitive : je raisonne déjà en termes d’accessibilité (novice ↔ expert), fallbacks, clarté.  
+- Gestion projet IA : je joue le rôle de PM, je sais découper roadmap macro/micro et orchestrer deux développeurs.  
+- Culture IA : je connais GPT-4o, GPT-5, Claude, Mistral, etc., et je sais comparer coûts/tokens/perfs.  
+- Design & artistique : je pose des règles de cohérence visuelle, tokens graphiques, palettes.  
+
+### ⬜️ Compétences à gagner sur les mois & années à venir
+1. Implémentation technique IA : appels API réels (OpenAI, Anthropic, Mistral) avec code (Python/JS), sécurisation des clés et quotas, câblage superviseur/processeur dans un backend.  
+2. Big Data pratique : manipulation de gros volumes de logs IA (ETL avec Pandas/Spark), stockage structuré (Postgres, Supabase, Data Lake), dashboard coût/performance.  
+3. Fine-tuning et embeddings : création d’embeddings pour recherche vectorielle (FAISS, Pinecone) et fine-tuning léger (LoRA, HuggingFace).  
+4. Sécurité & conformité : sanitization des inputs/outputs, respect RGPD, sandbox pour exécution de code généré.  
+5. Cloud & déploiement : Docker, Kubernetes, CI/CD, déploiement scalable d’un backend IA.  
+6. Data science avancée : apprentissage distribué (Ray, Dask), bases de ML classiques (classifieurs, clustering).  
+
 ## 📬 Me contacter
 - 🌐 [Instagram](https://instagram.com/sayca.labs)  
 - 💼 [LinkedIn](https://linkedin.com/in/sayca)
