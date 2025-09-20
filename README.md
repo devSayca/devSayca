@@ -1,7 +1,6 @@
 # 👋 Salut, moi c’est Sayca
 
 **Étudiant-développeur IA & Big Data · Design d’écosystèmes cognitifs et de graphismes**
-Ouverture de mon github récente !
 
 ![Bannière](compactbanner.png)
 
