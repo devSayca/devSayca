@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Sayca
 
-**Étudiant-développeur IA & Big Data · Design d’écosystèmes cognitifs et de graphismes**
+**Étudiant en dev IA & Big Data · Design d’écosystèmes cognitifs et graphiques**
 
 ![Bannière](compactbanner.png)
 
@@ -9,7 +9,7 @@
 ## 🧠 À propos de moi
 - **Sayca Labs** : holding de tous mes projets, c'est ma resprésentation légale (et malheureusement fiscale...)
 - Fondateur de **Sailor Energy** - L’art de vendre des boissons uniques. **Vous vendez, on s’occupe du reste.** (courtier & designer produit)
-- Créateur d’outils d’**augmentation cognitive** : productivité, automation, architectures informationnelles  
+- Créateur d’outils visant l'**augmentation cognitive** : productivité, automation, architectures informationnelles et optimisation de systèmes existants.
 - **École 42 Nice !** (tronc commun dès novembre 2025)
 
 ---
