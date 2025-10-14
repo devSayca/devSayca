@@ -7,18 +7,18 @@
 ---
 
 ## 🧠 À propos de moi
-- **Sayca Labs** : holding de tous mes projets, c'est ma resprésentation légale (et malheureusement fiscale...)
-- Fondateur de **Sailor Energy** - L’art de vendre des boissons uniques. **Vous vendez, on s’occupe du reste.** (courtier & designer produit)
+- **Sayca Labs** : représentation légale, holding de tous les projets.
+- Fondateur de **Sailor Energy** - **Vous vendez, on s’occupe du reste.** (courtier & designer produit / boissons personnalisées)
 - Créateur d’outils visant l'**augmentation cognitive** : productivité, automation, architectures informationnelles et optimisation de systèmes existants.
-- **École 42 Nice !** (tronc commun dès novembre 2025)
+- **École 42 Nice !**
 
 ---
 
 ## ⚙️ Mes domaines
 - 🧬 IA, Big Data, API & pipelines neuronaux  
-- 💻 Programmation (C & Python, à venir: JS, Enforce Script, SQF)
-- 🎨 Design produit, identité de marque, UI/UX et composition audiovisuelle
+- 💻 Programmation (C, Python, JS, Enforce Script, SQF)
 - 🧩 Architecture de systèmes cognitifs (agents, superviseurs, pare-feu cognitifs ou bien compagnons embarqués)
+- 🎨 Possibilités de design produit, identité de marque, UI/UX et composition audiovisuelle
 
 ---
 
@@ -30,7 +30,7 @@
 ---
 
 ### ✅ Compétences ACQUISES / ENTRAÎNÉES
-- Prompt engineering avancé : j’ai développé mon propre protocole superviseur/processeur et je maîtrise l’architecture des prompts.  
+- Prompt engineering avancé : j’ai développé mon propre protocole superviseur/processeur et je maîtrise l’architecture des prompts pour LLM.
 - Architecture informationnelle : je sais formaliser des flux S↔P, manifester les responsabilités et définir des guidelines.  
 - UX cognitive : je raisonne déjà en termes d’accessibilité (novice ↔ expert), fallbacks, clarté.  
 - Gestion projet IA : je joue le rôle de PM, je sais découper roadmap macro/micro et orchestrer deux développeurs.  
