@@ -53,5 +53,5 @@
 
 ---
 
-> 🧠 « 1) Dieu veille sur l’âme. 2) La science module le corps. 3) Maintenant c’est à nous d’élever l’esprit. »  
-> — *Petite devise de Sayca Labs, pas piquée des hannetons*
+> 🧠 « 1) Dieu veille sur l’âme. 2) La science module le corps. 3) C’est à nous d’élever l’esprit. »  
+> — *Petite devise pas piquée des hannetons*
