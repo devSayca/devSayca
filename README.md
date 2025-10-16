@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Sayca
 
-**Étudiant en dev IA & Big Data · Design d’écosystèmes cognitifs et graphiques**
+**Étudiant IA & Big Data · Déterminé à dépasser les limites cognitives humaines par la symbiose homme-machine.**
 
 ![Bannière](compactbanner.png)
 
