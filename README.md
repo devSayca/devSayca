@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Sayca
 
-**Étudiant IA & Big Data · Déterminé à dépasser les limites cognitives humaines par la symbiose homme-machine.**
+**Étudiant IA & Big Data · Augmenter l'humain en atténuant ses erreurs de code biologique par la symbiose homme-machine.**
 
 ![Bannière](compactbanner.png)
 
