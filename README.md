@@ -1,6 +1,7 @@
 # 👋 Salut, moi c’est Sayca
 
-**Étudiant IA & Big Data · Augmenter l'humain en atténuant ses erreurs de code biologique par la symbiose homme-machine.**
+**Objectif : Obtenir toutes mes qualifications pour rejoindre ou lancer un programme de recherche en Intelligences Augmentées combinant IA générale, ensuite super IA, puis fusions d’intelligences biologiques et artificielles par implants neuronaux ou interfaces de réalité augmentée.**
+*Augmenter l'humain en atténuant ses erreurs de code biologique par la symbiose homme-machine.*
 
 ![Bannière](compactbanner.png)
 
