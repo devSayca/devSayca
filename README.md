@@ -23,6 +23,7 @@
 ---
 
 ## 🚀 Projets en cours
+🔗 [Découvrir le projet Sayca Delta (Δ)](https://github.com/devSayca/Sayca-Delta/tree/main)
 - **Sayca Labs** — Holding créative et incubateur IA  
 - **Sailor Energy** — Courtage & design de boissons personnalisées  
 - **FolioForge** — Générateur de portfolios qualitatifs pour les développeurs et créateurs
