@@ -4,8 +4,6 @@
 > *« Unir. Comprendre. Élever. »*  
 > — **Devise officielle de Sayca Labs**
 
-![Bannière](compactbanner.png)
-
 ---
 
 ## 🧠 À propos de moi
@@ -68,6 +66,8 @@ Chaque projet vise la **symbiose cognitive** : utiliser l’IA non comme outil, 
 💼 [LinkedIn](https://linkedin.com/in/sayca)  
 💬 **Discord :** @sayca  
 🍸 *Ou dans un bar, probablement à refaire le monde.*
+
+![Bannière](compactbanner.png)
 
 ---
 
