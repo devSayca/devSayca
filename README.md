@@ -9,7 +9,7 @@
 ---
 
 ## 🧠 À propos de moi
-Je suis **Jason “Sayca” Ferone**, fondateur de **Sayca Labs**, une holding créative et technologique dédiée à la symbiose humain–IA.  
+Je suis **Sayca** *(Jason Ferone)*, fondateur de **Sayca Labs**, une holding créative et technologique dédiée à la symbiose humain–IA.  
 Mon objectif : **concevoir des architectures d’intelligence augmentée** capables d’unir la cognition biologique et la puissance computationnelle.
 
 🎯 **Objectif long terme :**  
