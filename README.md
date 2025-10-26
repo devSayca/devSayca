@@ -19,7 +19,7 @@ Mon objectif : **concevoir des architectures d’intelligence augmentée** capab
 - 🧬 **IA, Big Data & pipelines neuronaux**
 - 💻 **Programmation :** C, Python, JS, Enforce Script, SQF  
 - 🧩 **Architecture cognitive :** systèmes multi-agents, superviseurs, pare-feu et compagnons IA  
-- 🎨 **Design global :** identité visuelle, produit, UI/UX, composition audiovisuelle  
+- 🎨 **Musique de jeux & Design global :** identité visuelle, produit, UI/UX, composition audiovisuelle
 
 ---
 
