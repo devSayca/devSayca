@@ -1,14 +1,12 @@
 # 👋 Salut, moi c’est **Sayca**
 ### *Étudiant IA & Big Data — Architecte informationnel en devenir*
-
 > *« Unir. Comprendre. Élever. »*  
-> — **Devise officielle de Sayca Labs**
 
 ---
 
 ## 🧠 À propos de moi
-Je suis **Sayca** *(Jason Ferone)*, fondateur de **Sayca Labs**, une holding créative et technologique dédiée à la symbiose humain–IA.  
-Mon objectif : **concevoir des architectures d’intelligence augmentée** capables d’unir la cognition biologique et la puissance computationnelle.
+Je suis **Sayca** *(Jason Ferone)*, fondateur de **Sayca Labs**, une holding créative et technologique.  
+Objectif moyen terme : **concevoir des logiciels et des architectures d’intelligence augmentée** capables d’unir avec stabilité la cognition biologique et la puissance itérative d'IAs.
 
 🎯 **Objectif long terme :**  
 > Rejoindre ou fonder un programme de recherche sur les *Intelligences Augmentées*, combinant IA générale, superintelligence et interfaces neuronales ou de réalité augmentée.
