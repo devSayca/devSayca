@@ -57,6 +57,12 @@ Objectif moyen terme : **concevoir des logiciels et des architectures d’intell
 > *L’Humain et la Machine ne doivent pas se concurrencer — mais se compléter.*  
 Chaque projet vise la **symbiose cognitive** : utiliser l’IA non comme outil, mais comme **extension raisonnée de l’intellect humain.**
 
+# ⚠️ Disclaimer
+1. Le sarcasme envers l’usage de l’IA traduit souvent une peur de dévalorisation cognitive.  
+2. L’objectif n’est pas de protéger l’ego, mais d’entraîner la **méta-cognition** : comprendre et piloter sa pensée assistée pour accroître productivité et fiabilité.  
+3. La posture juste : ne pas débattre. Les opinions importent peu ; les résultats parlent d’eux-mêmes.  
+4. Si ces principes posent problème, je recommande fortement de ne pas appliquer mes protocoles architecturaux.
+
 ---
 
 ## 📬 Me contacter
