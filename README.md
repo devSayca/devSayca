@@ -16,8 +16,8 @@ Objectif moyen terme : **Concevoir des architectures d’intelligence augmentée
 - 🧬 **IA, Big Data & pipelines neuronaux**
 - 💻 **Programmation :** C, Python, JS, Enforce Script, SQF  
 - 🧩 **Architecture cognitive :** systèmes multi-agents, protocoles superviseurs, pare-feu cognitifs et compagnons IA.
-## Domaines additionnels
-- 🎨 **Musique de jeux & Design global :** identité visuelle, produit, UI/UX, composition audiovisuelle
+### 🎨 Domaines additionnels
+- 🤖 **Video Game Musics & Design :** identité visuelle, produit, UI/UX, composition audiovisuelle
 
 ---
 
