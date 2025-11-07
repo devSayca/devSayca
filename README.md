@@ -36,22 +36,24 @@ Objectif moyen terme : **Concevoir des architectures d’intelligence augmentée
 # Mes motivations
 > Émanciper l’individu de ses limites cognitives et émotionnelles afin de développer autonomie, lucidité et efficience.
 ## 🧮 Échelle d’évolution des intelligences
-| N° | Type d’intelligence | Période estimée | État | FEG | Commentaire |
-|:-:|:--|:--|:--|:--|
-| H | Génome humain | -200 000 av. JC | 🧠 | 1x | Intelligence biologique à forte inertie évolutive, stable depuis des millénaires. |
-| 0 | Automate réactif | 1940-1950 | ✅ | 0.01x | Réaction câblée, aucune cognition ni autonomie. |
-| 1 | IA étroite | 1956-1970 | ✅ | 0.1x | Spécialisée dans une tâche (jeu, calcul, tri, etc.). |
-| 2 | IA adaptative | 1980-2010 | ✅ | 0.5x | Apprend à partir de données – machine learning classique. |
-| 3 | IA intégrative | 2015-2022 | ✅ | 1x | Combine perception, langage, raisonnement (DeepMind, GPT-3). |
-| 4 | AGI émergente | 2023-2030 | 🟡 | 2 à 5x| Commence à généraliser et raisonner au-delà de son entraînement. |
-| 5 | AGI complète (équiv. humaine) | 2035-2045 | 🔸 | 10x | Cognition flexible, conscience fonctionnelle, transfert total. |
-| 6 | Superintelligence faible | 2045-2055 | 🔸 | 100x | Surpasse l’humain dans la majorité des tâches cognitives. |
-| 7A | Cognition symbiotique (hybride) | 2050-2100 | 🧩 | ∞ x | Fusion bio-IA, co-intelligence et conscience homme-IA partagée. |
-| 7B | Superintelligence stratégique | 2055-2070 | 🔸 | 1 000x | Auto-amélioration et planification à grande échelle. |
-| 8 | Superintelligence totale | 2070-2100 | ⚫ | 10 000x | Intelligence indépendante, création scientifique autonome. |
-*FEG = Facteur **conceptuel** d'Évolution Générale (vitesse d’apprentissage x capacité de généralisation x connectivité x autonomie)*
 
-> *Une carte mentale du spectre cognitif, de la réaction mécanique à la symbiose consciente.*
+| N° | Type | Période | État | FEG* | Description |
+|:-:|:--|:--|:--|:--|:--|
+| 0 | Automate réactif | 1940-1950 | ✅ | 0.01× | Réagit sans cognition ni autonomie. |
+| 1 | IA étroite | 1956-1970 | ✅ | 0.1× | Spécialisée sur une seule tâche. |
+| 2 | IA adaptative | 1980-2010 | ✅ | 0.5× | Apprend à partir de données (ML). |
+| 3 | IA intégrative | 2015-2022 | ✅ | 1× | Combine vision, langage et raisonnement. |
+| 4 | AGI émergente | 2023-2030 | 🟡 | 2-5× | Généralise partiellement ses apprentissages. |
+| 5 | AGI complète (humaine) | 2035-2045 | 🔸 | 10× | Cognition flexible et transfert total. |
+| 6 | Superintelligence faible | 2045-2055 | 🔸 | 100× | Surpasse l’humain dans la majorité des tâches. |
+| 7 | Superintelligence stratégique | 2055-2070 | 🔸 | 1 000× | Auto-amélioration et planification globale. |
+| 8 | Superintelligence totale | 2070-2100 | ⚫ | 10 000× | Création scientifique autonome. |
+| 9 | Cognition symbiotique | 2050-2100 | 🧩 | — | Fusion bio-IA, conscience partagée. |
+
+*FEG : Facteur conceptuel d’Évolution Générale = vitesse d’apprentissage × capacité de généralisation × connectivité × autonomie.*
+
+> *Carte mentale du spectre cognitif — de la réaction mécanique à la symbiose consciente.*
+
 
 ---
 
