@@ -1,10 +1,10 @@
-# 👋 Salut, moi c’est **Sayca**
-### *Étudiant en IA & Big Data — Futur architecte informationnel — «Unir. Comprendre. Élever.»*  
-
+# 👋 Bienvenue, je suis **Sayca**
+### *Étudiant en IA & Big Data — Futur architecte informationnel*  
+> *Unir. Comprendre. Élever.*
 ---
 
 ## 🧠 À propos de moi
-Je suis JF **Sayca**, fondateur de **Sayca Labs** – une holding créative et technologique.  
+Fondateur de **Sayca Labs** – une holding créative et technologique.  
 Objectif moyen terme : **Concevoir des architectures d’intelligence augmentée** unissant la cognition humaine et la puissance des IA avec **éthique** et **stabilité**.
 
 🎯 **Objectif long terme :**  
