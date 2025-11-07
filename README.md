@@ -1,6 +1,6 @@
 # 👋 Bienvenue, je suis **Sayca**
-### *Étudiant en IA & Big Data — Futur architecte informationnel*  
-> *Unir. Comprendre. Élever.*
+### *Étudiant en IA & Big Data — Architecte informationnel en devenir*  
+> *« Unir. Comprendre. Élever. » — Sayca Labs*
 ---
 
 ## 🧠 À propos de moi
