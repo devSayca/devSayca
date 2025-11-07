@@ -1,27 +1,27 @@
 # 👋 Salut, moi c’est **Sayca**
-### *Étudiant IA & Big Data — Architecte informationnel en devenir*
-> *« Unir. Comprendre. Élever. »*  
+### *Étudiant en IA & Big Data — Architecte informationnel en devenir* > *« Unir. Comprendre. Élever. »*  
 
 ---
 
 ## 🧠 À propos de moi
-Je suis **Sayca** *(Jason Ferone)*, fondateur de **Sayca Labs**, une holding créative et technologique.  
-Objectif moyen terme : **concevoir des logiciels et des architectures d’intelligence augmentée** capables d’unir avec stabilité la cognition biologique et la puissance itérative d'IAs.
+Je suis JF **Sayca**, fondateur de **Sayca Labs** – une holding créative et technologique.  
+Objectif moyen terme : **Concevoir des architectures d’intelligence augmentée** unissant la cognition humaine et la puissance des IA avec **éthique** et **stabilité**.
 
 🎯 **Objectif long terme :**  
-> Rejoindre ou fonder un programme de recherche sur les *Intelligences Augmentées*, combinant IA générale, superintelligence et interfaces neuronales ou de réalité augmentée.
+> Rejoindre ou fonder un programme de recherche sur les intelligences augmentées, alliant IA générale, superintelligence et interfaces neuronales ou immersives.
 
 ---
 
 ## ⚙️ Domaines de compétence
 - 🧬 **IA, Big Data & pipelines neuronaux**
 - 💻 **Programmation :** C, Python, JS, Enforce Script, SQF  
-- 🧩 **Architecture cognitive :** systèmes multi-agents, superviseurs, pare-feu et compagnons IA  
+- 🧩 **Architecture cognitive :** systèmes multi-agents, protocoles superviseurs, pare-feu cognitifs et compagnons IA.
+## Domaines additionnels
 - 🎨 **Musique de jeux & Design global :** identité visuelle, produit, UI/UX, composition audiovisuelle
 
 ---
 
-## 🚀 Projets actifs
+# 🚀 Projets actuels
 🔗 [**Découvrir Sayca Delta (Δ)**](https://github.com/devSayca/Sayca-Delta/tree/main)  
 > Projet open-research dédié à l’Intelligence Triadique : Humain, Cristalliseur et Producteur en symbiose cognitive.  
 
@@ -29,17 +29,40 @@ Objectif moyen terme : **concevoir des logiciels et des architectures d’intell
 |--------|--------------|
 | **Sayca Labs** | Holding créative et incubateur IA. |
 | **Sailor Energy ⚡** | Courtage & design de boissons personnalisées. |
-| **FolioForge** | Générateur de portfolios qualitatifs pour développeurs & créateurs. |
+| **Cursus 42 Nice** | Formation continue sur les fondamentaux du développement informatique en auto-didacte & peer-learning. |
 
 ---
 
-## ✅ Compétences acquises
+# Mes motivations
+> Émanciper l’individu de ses limites cognitives et émotionnelles afin de développer autonomie, lucidité et efficience.
+## 🧮 Échelle d’évolution des intelligences
+| N° | Type d’intelligence | Période estimée | État | FEG | Commentaire |
+|:-:|:--|:--|:--|:--|
+| H | Génome humain | -200 000 av. JC | 🧠 | 1x | Intelligence biologique à forte inertie évolutive, stable depuis des millénaires. |
+| 0 | Automate réactif | 1940-1950 | ✅ | 0.01x | Réaction câblée, aucune cognition ni autonomie. |
+| 1 | IA étroite | 1956-1970 | ✅ | 0.1x | Spécialisée dans une tâche (jeu, calcul, tri, etc.). |
+| 2 | IA adaptative | 1980-2010 | ✅ | 0.5x | Apprend à partir de données – machine learning classique. |
+| 3 | IA intégrative | 2015-2022 | ✅ | 1x | Combine perception, langage, raisonnement (DeepMind, GPT-3). |
+| 4 | AGI émergente | 2023-2030 | 🟡 | 2 à 5x| Commence à généraliser et raisonner au-delà de son entraînement. |
+| 5 | AGI complète (équiv. humaine) | 2035-2045 | 🔸 | 10x | Cognition flexible, conscience fonctionnelle, transfert total. |
+| 6 | Superintelligence faible | 2045-2055 | 🔸 | 100x | Surpasse l’humain dans la majorité des tâches cognitives. |
+| 7A | Cognition symbiotique (hybride) | 2050-2100 | 🧩 | ∞ x | Fusion bio-IA, co-intelligence et conscience homme-IA partagée. |
+| 7B | Superintelligence stratégique | 2055-2070 | 🔸 | 1 000x | Auto-amélioration et planification à grande échelle. |
+| 8 | Superintelligence totale | 2070-2100 | ⚫ | 10 000x | Intelligence indépendante, création scientifique autonome. |
+*FEG = Facteur **conceptuel** d'Évolution Générale (vitesse d’apprentissage x capacité de généralisation x connectivité x autonomie)*
+
+> *Une carte mentale du spectre cognitif, de la réaction mécanique à la symbiose consciente.*
+
+---
+
+## ✅ Compétences de base déjà acquises
 - 🧩 **Prompt Engineering avancé** : conception de protocoles superviseur–processeur, architecture de prompts pour LLM.  
 - 🧠 **Architecture informationnelle** : formalisation de flux S↔P, hiérarchisation des rôles et guidelines.  
 - 🎯 **UX cognitive** : conception basée sur clarté, fallbacks et accessibilité.  
 - 📊 **Gestion de projet IA** : découpage roadmap macro/micro, coordination d’équipe.  
 - 🤖 **Culture IA** : comparaison et usage pragmatique de GPT-4o, GPT-5, Claude, Mistral, etc.  
-- 🎨 **Design & direction artistique** : cohérence graphique, palettes, symboliques.  
+- 🎨 **Design & direction artistique** : cohérence graphique, palettes, symboliques.   
+- 🎶 **Composition MAO + SFX de base** : thèmes musicaux, sound effects, musique expérimentale, remix/mashup MAO.
 
 ---
 
@@ -70,8 +93,6 @@ Chaque projet vise la **symbiose cognitive** : utiliser l’IA non comme outil, 
 💼 [LinkedIn](https://linkedin.com/in/sayca)  
 💬 **Discord :** @sayca  
 🍸 *Ou dans un bar, probablement à refaire le monde.*
-
-![Bannière](compactbanner.png)
 
 ---
 
