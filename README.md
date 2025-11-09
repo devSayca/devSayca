@@ -98,5 +98,4 @@ Chaque projet vise la **symbiose cognitive** : utiliser l’IA non comme outil, 
 
 ---
 
-> 🧠 « 1) Dieu veille sur l’âme. 2) La science module le corps. 3) C’est à nous d’élever l’esprit. »  
-> — *Petite devise pas piquée des hannetons*  
+> 🧠 « Quand Dieu veille sur l’âme et la Science module le corps, l’œuvre de l’Homme est d’élever l’esprit. La curiosité est un bon départ, l'égo sera le premier frein. »
