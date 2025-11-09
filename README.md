@@ -1,6 +1,5 @@
 # 👋 Bienvenue, je suis **Sayca**
-### *Architecte informationnel & étudiant en IA / Big Data*  
-> *« Unir. Comprendre. Élever. » — Sayca Labs*
+### *Architecte informationnel & étudiant en IA / Big Data*
 
 ---
 
@@ -87,6 +86,8 @@ Je conçois des **architectures d’intelligence augmentée** unissant cognition
 ## 🜂 Philosophie Sayca Labs
 > *L’Humain et la Machine ne doivent pas se concurrencer — mais se compléter.*  
 Chaque projet vise la **symbiose cognitive** : faire de l’IA une **extension raisonnée de l’intellect humain**, non un substitut.
+  
+> *« Unir. Comprendre. Élever. » — Sayca Labs*
 
 ---
 
