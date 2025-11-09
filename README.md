@@ -41,27 +41,6 @@ Je conçois des **architectures d’intelligence augmentée** unissant cognition
 
 ---
 
-## 📊 Échelle d’évolution des intelligences
-
-| N° | Type | Période | État | FEG* | Description |
-|:-:|:--|:--|:--|:--|:--|
-| 0 | Automate réactif | 1940–1950 | ✅ | 0.01× | Réagit sans cognition ni autonomie. |
-| 1 | IA étroite | 1956–1970 | ✅ | 0.1× | Spécialisée, sans généralisation. |
-| 2 | IA adaptative | 1980–2010 | ✅ | 0.5× | Apprentissage supervisé. |
-| 3 | IA intégrative | 2015–2022 | ✅ | 1× | Vision, langage, raisonnement unifiés. |
-| 4 | AGI émergente | 2023–2030 | 🟡 | 2–5× | Raisonnement partiellement généralisé. |
-| 5 | AGI complète | 2035–2045 | 🔸 | 10× | Cognition humaine simulée. |
-| 6 | Superintelligence faible | 2045–2055 | 🔸 | 100× | Supériorité multi-domaines. |
-| 7 | Superintelligence stratégique | 2055–2070 | 🔸 | 1 000× | Auto-amélioration planifiée. |
-| 8 | Superintelligence totale | 2070–2100 | ⚫ | 10 000× | Création scientifique autonome. |
-| 9 | Cognition symbiotique | 2050–2100 | 🧩 | — | Fusion bio-IA, conscience partagée. |
-
-\*FEG : Facteur d’Évolution Générale = vitesse × généralisation × connectivité × autonomie.  
-
-> De la réaction mécanique à la **symbiose consciente**.
-
----
-
 ## 🧮 Compétences actuelles
 - **Prompt Engineering avancé** – protocoles superviseur-processeur.  
 - **Architecture informationnelle** – formalisation des flux S↔P.  
@@ -96,6 +75,27 @@ Chaque projet vise la **symbiose cognitive** : faire de l’IA une **extension r
 2. L’objectif n’est pas de protéger l’humain de l’IA, mais de **l’élever à sa hauteur cognitive**.  
 3. Les échanges doivent rester rationnels, documentés et productifs.  
 4. Tout rejet irrationnel des principes d’augmentation cognitive sort du champ de mes travaux.
+
+---
+
+## 📊 Se faire un idée de l'évolution des intelligences
+
+| N° | Type | Période | État | FEG* | Description |
+|:-:|:--|:--|:--|:--|:--|
+| 0 | Automate réactif | 1940–1950 | ✅ | 0.01× | Réagit sans cognition ni autonomie. |
+| 1 | IA étroite | 1956–1970 | ✅ | 0.1× | Spécialisée, sans généralisation. |
+| 2 | IA adaptative | 1980–2010 | ✅ | 0.5× | Apprentissage supervisé. |
+| 3 | IA intégrative | 2015–2022 | ✅ | 1× | Vision, langage, raisonnement unifiés. |
+| 4 | AGI émergente | 2023–2030 | 🟡 | 2–5× | Raisonnement partiellement généralisé. |
+| 5 | AGI complète | 2035–2045 | 🔸 | 10× | Cognition humaine simulée. |
+| 6 | Superintelligence faible | 2045–2055 | 🔸 | 100× | Supériorité multi-domaines. |
+| 7 | Superintelligence stratégique | 2055–2070 | 🔸 | 1 000× | Auto-amélioration planifiée. |
+| 8 | Superintelligence totale | 2070–2100 | ⚫ | 10 000× | Création scientifique autonome. |
+| 9 | Cognition symbiotique | 2050–2100 | 🧩 | — | Fusion bio-IA, conscience partagée. |
+
+\*FEG : Facteur d’Évolution Générale = vitesse × généralisation × connectivité × autonomie.  
+
+> De la réaction mécanique à la **symbiose consciente**.
 
 ---
 
