@@ -107,5 +107,4 @@ Chaque projet vise la **symbiose cognitive** : faire de l’IA une **extension r
 
 ---
 
-> 🧠 *« Quand Dieu veille sur l’âme et la Science module le corps, l’œuvre de l’Homme est d’élever l’esprit. »*  
-> *La curiosité est un bon départ. L’ego sera le premier frein.*
+> 🧠 *« Quand Dieu veille sur l’âme et la Science module le corps, l’œuvre de l’Homme est d’élever son esprit. »* (...) *« La curiosité est un bon départ. Votre ego sera le premier frein. »*
