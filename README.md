@@ -78,7 +78,7 @@ Chaque projet vise la **symbiose cognitive** : faire de l’IA une **extension r
 
 ---
 
-## 📊 Se faire un idée de l'évolution des intelligences
+## 📊 Se faire une idée de l'évolution des intelligences
 
 | N° | Type | Période | État | FEG* | Description |
 |:-:|:--|:--|:--|:--|:--|
