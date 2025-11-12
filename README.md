@@ -1,5 +1,5 @@
 # 👋 Bienvenue, je suis **Sayca**
-### *Etudiant en IA / Big Data – Apprenti architecte informationnel*
+### *Etudiant en IA / Big Data*
 
 ---
 
