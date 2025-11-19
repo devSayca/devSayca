@@ -1,23 +1,35 @@
-# 👋 Bienvenue, je suis **Sayca**
-### Étudiant en Intelligence Artificielle & Big Data — Développement bas-niveau (42)
+# 👋 Hello world, je suis **Sayca**
+### IA & Big Data — Développement bas-niveau (42 Nice) & sécurisation des AGI émergentes
+
+Je développe des systèmes techniques destinés à augmenter **concrètement** la performance cognitive humaine — augmenter le travailleur.
+
+Travaux actuels :
+- **Outils de structuration mentale automatique**  
+  > Protocoles, graphes, pipelines.  
+- **Systèmes de continuité mentale**  
+  > Mémoire externe, métapanel, statistiques par senseurs, copilotes.  
+- **Modules d’analyse assistée**  
+  > Triadique, cristallisation, concordance de travailleurs en groupe.  
+- **Réduction des pertes d’attention**  
+  > Assistants, AR Halo, AGI superviseur.  
+- **Optimisation de l’apprentissage**  
+  > Dashboards, métriques.  
+- **Gamification opérationnelle**  
+  > Scores, suivis, feedbacks.
+
+Objectif : produire des environnements où l’humain raisonne plus vite, plus clairement et avec moins de surcharge.  
+Ne plus dépendre uniquement des biais cognitifs individuels ou du management.
+
+**Sayca Labs** : conception et déploiement d’architectures d’augmentation cognitive (dashboards, agents IA, outils bas-niveau, systèmes embarqués).
 
 ---
 
-## 🧠 À propos
+## ⚙️ Compétences traitées
 
-Je conçois des architectures destinées à amplifier les capacités cognitives humaines : structuration plus nette, continuité mentale renforcée, meilleure précision analytique et réduction des pertes d’attention.  
-L’objectif est de dépasser les limites biologiques standard grâce à des systèmes techniques maîtrisés, conçus pour augmenter la clarté, la stabilité et l’efficacité du raisonnement.
-
-Au sein de **Sayca Labs**, je développe des environnements où la cognition humaine devient plus robuste, plus cohérente et plus performante grâce à des modèles d’ingénierie adaptés.
-
----
-
-## ⚙️ Domaines de compétence
-
-### 🧩 Ingénierie & IA
-- IA / Big Data : pipelines IA, entraînement, optimisation.  
+### 🧩 IA & Développement
+- IA / Big Data : pipelines, entraînement, optimisation.  
 - Programmation : C, Python, JavaScript, Enforce Script, SQF.  
-- Modélisation : systèmes multi-agents, superviseurs.  
+- Modélisation : systèmes multi-agents, superviseurs, protocoles.  
 
 ### 🎨 Design & Système
 - Identité visuelle & design produit.  
@@ -26,26 +38,26 @@ Au sein de **Sayca Labs**, je développe des environnements où la cognition hum
 
 ---
 
-## 🚀 Projets majeurs
+## 🚀 Projets principaux
 
-### **Ecosystème Triadique (Δ)**
+### **Écosystème Triadique (Δ)**
 Méthodologie de travail à 3 agents :  
 **Humain → Cristalliseur → Itérateur**  
-Objectif : structuration, enrichissement, correction et synthèse des flux informationnels.
+Objectif : structuration, enrichissement, correction et synthèse des flux informationnels via logiciels et API dédiés.
 
-### **Cerebral Hub** (en développement fermé)
-OS destiné au suivi d’augmentation cognitive :  
-mesure des compétences, analyse des activités, outils d’organisation, statistiques, inventaire mental.
+### **Cerebral Hub** (développement fermé)
+OS étendu sur plusieurs supports interconnectés destiné à virtualiser :  
+compétences, activités, organisation, statistiques, inventaire mental, et premiers modules d’assistance AGI.
 
 | Projet | Rôle |
 |--------|------|
-| **Sayca Labs** | Développement d’outils cognitifs & IA. |
+| **Sayca Labs** | Outils cognitifs & IA. |
 | **Sailor Energy** | Design & courtage de boissons personnalisées. |
 | **42 Nice** | Dév. bas-niveau : C, mémoire, processus, algorithmie. |
 
 ---
 
-## 🧮 Compétences techniques
+## 🧮 Compétences acquises
 - Prompt engineering avancé (S↔P, superviseur/proc).  
 - Architecture informationnelle (modèles, pipelines).  
 - UX cognitive (concision, hiérarchie, ergonomie).  
@@ -55,7 +67,7 @@ mesure des compétences, analyse des activités, outils d’organisation, statis
 
 ---
 
-## ⬜️ En apprentissage
+## ⬜️ En apprentissage 2025-2027
 - API IA : OpenAI, Anthropic, Mistral.  
 - Big Data : Pandas, Spark, ETL.  
 - Fine-tuning : FAISS, LoRA, HF.  
