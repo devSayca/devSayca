@@ -17,24 +17,10 @@ Travaux actuels :
 - **Gamification opérationnelle**  
   > Scores, suivis, feedbacks.
 
-Objectif : produire des environnements où l’humain raisonne plus vite, plus clairement et avec moins de surcharge.  
-Ne plus dépendre uniquement des biais cognitifs individuels ou du management.
+**Objectif** : *produire des environnements où l’humain raisonne plus vite, plus clairement et avec moins de surcharge.  
+Ne plus dépendre uniquement des biais cognitifs individuels ou du management.*
 
 **Sayca Labs** : conception et déploiement d’architectures d’augmentation cognitive (dashboards, agents IA, outils bas-niveau, systèmes embarqués).
-
----
-
-## ⚙️ Compétences traitées
-
-### 🧩 IA & Développement
-- IA / Big Data : pipelines, entraînement, optimisation.  
-- Programmation : C, Python, JavaScript, Enforce Script, SQF.  
-- Modélisation : systèmes multi-agents, superviseurs, protocoles.  
-
-### 🎨 Design & Système
-- Identité visuelle & design produit.  
-- UX cognitive : hiérarchie, structuration, lisibilité.  
-- MAO & sound design.  
 
 ---
 
@@ -57,13 +43,17 @@ compétences, activités, organisation, statistiques, inventaire mental, et prem
 
 ---
 
-## 🧮 Compétences acquises
-- Prompt engineering avancé (S↔P, superviseur/proc).  
-- Architecture informationnelle (modèles, pipelines).  
-- UX cognitive (concision, hiérarchie, ergonomie).  
-- Gestion de projets IA.  
-- Direction artistique & design.  
-- MAO & sound FX.  
+## ⚙️ Compétences traitées
+
+### 🧩 IA & Développement
+- IA / Big Data : pipelines, entraînement, optimisation.  
+- Programmation : C, Python, JavaScript, Enforce Script, SQF.  
+- Modélisation : systèmes multi-agents, superviseurs, protocoles.  
+
+### 🎨 Design & Système
+- Identité visuelle & design produit.  
+- UX cognitive : hiérarchie, structuration, lisibilité.  
+- MAO & sound design.  
 
 ---
 
