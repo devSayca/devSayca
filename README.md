@@ -1,4 +1,4 @@
-# 👋 Étudiant IA & Big Data
+# Étudiant IA & Big Data
 ## Développement bas-niveau (42 Nice)  
 ### Architectures d’augmentation cognitive & consulting IA
 
