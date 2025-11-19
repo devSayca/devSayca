@@ -20,8 +20,6 @@ Travaux actuels :
 **Objectif** : *produire des environnements où l’humain raisonne plus vite, plus clairement et avec moins de surcharge.  
 Ne plus dépendre uniquement des biais cognitifs individuels ou du management.*
 
-**Sayca Labs**
-
 ---
 
 ## 🚀 Projets principaux
