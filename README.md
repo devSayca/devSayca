@@ -1,110 +1,111 @@
 # 👋 Bienvenue, je suis **Sayca**
-### *Etudiant en IA / Big Data*
+### *Étudiant en Intelligence Artificielle & Big Data – Développement bas-niveau (42)*
 
 ---
 
 ## 🧠 À propos
-Fondateur de **Sayca Labs**, écosystème créatif et technologique dédié à la **symbiose homme–IA**.  
-Je conçois des **architectures d’intelligence augmentée** unissant cognition humaine, puissance computationnelle et rigueur éthique.
 
-🎯 **Objectif moyen terme**  
-> Concevoir des protocoles et architectures d’IA stables, compréhensibles et supervisables par l’humain.
+Je conçois des architectures destinées à amplifier les capacités cognitives humaines : structuration plus nette, continuité mentale renforcée, meilleure précision analytique et réduction des pertes d’attention.  
+L’objectif est de dépasser les limites biologiques standard grâce à des systèmes techniques maîtrisés, conçus pour augmenter la clarté, la stabilité et l’efficacité du raisonnement.
 
-🌌 **Objectif long terme**  
-> Fonder ou rejoindre un programme de **recherche avancée en intelligences augmentées**, intégrant AGI, superintelligences et interfaces neuronales.
+Au sein de **Sayca Labs**, j’explore une direction unique : développer des environnements où la cognition humaine devient plus robuste, plus cohérente et plus performante grâce à des modèles d’ingénierie adaptés.
 
 ---
 
 ## ⚙️ Domaines de compétence
 
-### 🧩 Cœur technique
-- **IA & Big Data** – pipelines neuronaux, apprentissage adaptatif.  
-- **Programmation** – C, Python, JS, Enforce Script, SQF.  
-- **Architecture cognitive** – systèmes multi-agents, protocoles superviseurs, pare-feux cognitifs.  
+### 🧩 Ingénierie & IA
+- IA / Big Data : pipelines IA, entraînement, optimisation.  
+- Programmation : C, Python, JavaScript, Enforce Script, SQF.  
+- Modélisation : systèmes multi-agents, superviseurs, contrôles I/O.  
 
-### 🎨 Cœur créatif
-- **Design produit & identité visuelle** – cohérence, narration, symbolique.  
-- **Musique & sound design** – composition MAO, ambiance et expérimentation sonore.  
+### 🎨 Design & Système
+- Identité visuelle et design produit.  
+- UX cognitive : hiérarchie, lisibilité, structure.  
+- MAO & sound design.  
 
 ---
 
 ## 🚀 Projets majeurs
 
-🔗 [**Sayca Delta (Δ)**](https://github.com/devSayca/Sayca-Delta/tree/main)  
-> Recherche ouverte sur **l’Intelligence Triadique** — Humain, Cristalliseur et Producteur en symbiose cognitive.  
+### **Ecosystème Triadique (Δ)**
+Méthodologie de travail et de création à 3 agents : Humain – Analyse – Production.  
+Objectif : structuration, correction, synthèse puis supervision des flux cognitifs.
 
-| Projet | Description |
-|--------|--------------|
-| **Sayca Labs** | Holding créative et incubateur IA. |
-| **Sailor Energy ⚡** | Design & courtage de boissons personnalisées. |
-| **42 Nice** | Formation en développement bas-niveau et algorithmie. |
+| Projet | Rôle |
+|--------|------|
+| **Sayca Labs** | Holding // développement d’outils cognitifs & IAs. |
+| **Sailor Energy** | Design & courtage de boissons personnalisées. |
+| **42 Nice** | Formation bas-niveau : C, mémoire, processus, algorithmie. |
 
 ---
 
-## 🧮 Compétences actuelles
-- **Prompt Engineering avancé** – protocoles superviseur-processeur.  
-- **Architecture informationnelle** – formalisation des flux S↔P.  
-- **UX cognitive** – ergonomie, hiérarchie et accessibilité.  
-- **Gestion de projet IA** – planification macro/micro et coordination.  
-- **Culture IA** – maîtrise des écosystèmes GPT-5, Mistral, Claude, etc.  
-- **Design & direction artistique** – cohérence graphique, symbolique.  
-- **MAO & SFX** – composition expérimentale et ambiante.  
+## 🧮 Compétences techniques
+- Prompt engineering avancé (S↔P, superviseur/proc).  
+- Architecture informationnelle (modèles structurés, pipelines).  
+- UX cognitive (concision, hiérarchie, ergonomie).  
+- Planification et gestion de projets IA.  
+- Direction artistique & design.  
+- MAO & sound FX.  
 
 ---
 
 ## ⬜️ En apprentissage
-1. Implémentation d’API IA (OpenAI, Anthropic, Mistral).  
-2. Big Data appliqué (ETL, Pandas, Spark).  
-3. Fine-tuning & embeddings (FAISS, LoRA, HF).  
-4. Sécurité & RGPD (sandbox, filtrage I/O).  
-5. Cloud & CI/CD (Docker, K8s, pipelines).  
-6. Data Science avancée (ML distribué, Dask, Ray).  
+- API IA : OpenAI, Anthropic, Mistral.  
+- Big Data : Pandas, Spark, ETL.  
+- Fine-tuning : FAISS, LoRA, HF.  
+- Sécurité, RGPD : filtrage I/O, sandbox.  
+- DevOps : Docker, K8s, CI/CD.  
+- ML distribué : Dask, Ray.  
 
 ---
 
-## 🜂 Philosophie Sayca Labs
-> *L’Humain et la Machine ne doivent pas se concurrencer — mais se compléter.*  
-Chaque projet vise la **symbiose cognitive** : faire de l’IA une **extension raisonnée de l’intellect humain**, non un substitut.
-  
-> *« Unir. Comprendre. Élever. » — Sayca Labs*
+## 🧱 Principes directeurs
+
+- Approche neutre et orientée performance.  
+- Structuration et optimisation continue des flux mentaux et techniques.  
+- Coopération Humain ↔ Machine pour réduire la charge cognitive.  
+- Priorité à la lisibilité, au contrôle et à la supervision des systèmes.
 
 ---
 
-## ⚠️ Postulat éthique
-1. La peur de l’IA provient souvent d’un déséquilibre entre ego et compréhension.  
-2. L’objectif n’est pas de protéger l’humain de l’IA, mais de **l’élever à sa hauteur cognitive**.  
-3. Les échanges doivent rester rationnels, documentés et productifs.  
-4. Tout rejet irrationnel des principes d’augmentation cognitive sort du champ de mes travaux.
+## 🎯 Profils compatibles avec mes travaux
+
+| Cible de mes travaux                | Profil idéal (pro-cognition)                                      | Profil non-adapté (moyenné / neutralisé)                            |
+|------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------|
+| Rapport à l’IH (humain)            | Expansion : comprend, modifie, structure.                         | Cognition perçue comme fixe.                                        |
+| Rapport à l’IA (machines)          | Usage fonctionnel, intégration.                                   | Confusion, gadget, menace.                                          |
+| Symbiose Humain-IA                 | Coopération opérationnelle.                                        | Rejet instinctif.                                                   |
+| Amélioration personnelle           | Curiosité + optimisation continue.                                | Effort minimal structurel.                                          |
+| Ego cognitif                       | Flexible, améliorable.                                            | Défensif.                                                           |
+| Rapport au savoir                  | Recherche active, structuration.                                  | Consommation passive.                                               |
+| Neuro-plasticité                   | Exploitation volontaire.                                          | Sous-utilisation.                                                   |
+| Rapport au progrès                 | Vision long terme.                                                | Scepticisme réflexe.                                                |
+| Responsabilité                     | Forte responsabilité cognitive.                                   | Délégation systématique.                                            |
+| Agentivité                         | Acteur.                                                           | Spectateur.                                                         |
 
 ---
 
-## 📊 Se faire une idée de l'évolution des intelligences
+## 📊 Évolution des systèmes intelligents
 
 | N° | Type | Période | État | FEG* | Description |
 |:-:|:--|:--|:--|:--|:--|
-| 0 | Automate réactif | 1940–1950 | ✅ | 0.01× | Réagit sans cognition ni autonomie. |
-| 1 | IA étroite | 1956–1970 | ✅ | 0.1× | Spécialisée, sans généralisation. |
+| 0 | Automate réactif | 1940–1950 | ✅ | 0.01× | Réaction sans cognition. |
+| 1 | IA étroite | 1956–1970 | ✅ | 0.1× | Tâches spécialisées. |
 | 2 | IA adaptative | 1980–2010 | ✅ | 0.5× | Apprentissage supervisé. |
-| 3 | IA intégrative | 2015–2022 | ✅ | 1× | Vision, langage, raisonnement unifiés. |
-| 4 | AGI émergente | 2023–2030 | 🟡 | 2–5× | Raisonnement partiellement généralisé. |
-| 5 | AGI complète | 2035–2045 | 🔸 | 10× | Cognition humaine simulée. |
-| 6 | Superintelligence faible | 2045–2055 | 🔸 | 100× | Supériorité multi-domaines. |
-| 7 | Superintelligence stratégique | 2055–2070 | 🔸 | 1 000× | Auto-amélioration planifiée. |
-| 8 | Superintelligence totale | 2070–2100 | ⚫ | 10 000× | Création scientifique autonome. |
-| 9 | Cognition symbiotique | 2050–2100 | 🧩 | — | Fusion bio-IA, conscience partagée. |
+| 3 | IA intégrative | 2015–2022 | ✅ | 1× | Modèles unifiés. |
+| 4 | AGI émergente | 2023–2030 | 🟡 | 2–5× | Raisonnement partiel. |
+| 5 | AGI complète | 2035–2045 | 🔸 | 10× | Cognition simulée. |
+| 6 | SI faible | 2045–2055 | 🔸 | 100× | Supériorité multi-domaines. |
+| 7 | SI stratégique | 2055–2070 | 🔸 | 1 000× | Auto-amélioration planifiée. |
+| 8 | SI totale | 2070–2100 | ⚫ | 10 000× | Production scientifique autonome. |
+| 9 | Cognition symbiotique | 2050–2100 | 🧩 | — | Coopération bio–IA. |
 
-\*FEG : Facteur d’Évolution Générale = vitesse × généralisation × connectivité × autonomie.  
-
-> De la réaction mécanique à la **symbiose consciente**.
+\*FEG = Facteur d’Évolution Générale (pour se donner une idée de la vitesse d'évolution d'une population mondiale, calquée sur celle de 2015.)
 
 ---
 
 ## 📬 Contact
-🌐 [**Instagram**](https://instagram.com/sayca.labs)  
-💼 [**LinkedIn**](https://linkedin.com/in/sayca)  
-💬 **Discord :** @sayca  
-🍸 *Ou dans un bar, probablement à refaire le monde.*
-
----
-
-> 🧠 *« Quand Dieu veille sur l’âme et la Science module le corps, l’œuvre de l’Homme est d’élever son esprit. »* (...) *« La curiosité est un bon départ. Votre ego sera le premier frein. »*
+🌐 Instagram : https://instagram.com/sayca.labs  
+💼 LinkedIn : https://linkedin.com/in/sayca  
+💬 Discord : @sayca
