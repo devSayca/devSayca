@@ -1,5 +1,5 @@
 # 👋 Hello world, je suis **Sayca**
-### IA & Big Data — Développement bas-niveau (42 Nice) & sécurisation des AGI émergentes
+### IA & Big Data — Développement bas-niveau (42 Nice) & sécurisation d'AGI émergentes
 
 Je développe des systèmes techniques destinés à augmenter **concrètement** la performance cognitive humaine — augmenter le travailleur.
 
