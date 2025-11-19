@@ -1,71 +1,56 @@
-# 👋 Hello world, je suis **Sayca**
-### IA & Big Data — Développement bas-niveau (42 Nice) & sécurisation d'AGI émergentes
+# 👋 Je suis **Sayca**
+### IA & Big Data — Développement bas-niveau (42 Nice)  
+### Architectures d’augmentation cognitive & consulting IA
 
-Je développe des systèmes techniques destinés à augmenter **concrètement** la performance cognitive humaine — augmenter le travailleur.
-
-Travaux actuels :
-- **Outils de structuration mentale automatique**  
-  > Protocoles, graphes, pipelines.  
-- **Systèmes de continuité mentale**  
-  > Mémoire externe, métapanel, statistiques par senseurs, copilotes.  
-- **Modules d’analyse assistée**  
-  > Triadique, cristallisation, concordance de travailleurs en groupe.  
-- **Réduction des pertes d’attention**  
-  > Assistants, AR Halo, AGI superviseur.  
-- **Optimisation de l’apprentissage**  
-  > Dashboards, métriques.  
-- **Gamification opérationnelle**  
-  > Scores, suivis, feedbacks.
-
-**Objectif** : *produire des environnements où l’humain raisonne plus vite, plus clairement et avec moins de surcharge.  
-Ne plus dépendre uniquement des biais cognitifs individuels ou du management.*
+Je conçois principalement des outils qui améliorent la clarté, la vitesse et la stabilité du raisonnement humain, ainsi que de son travail : structuration, continuité mentale, analyse assistée, copilotes IA et supervision intelligente.  
+Disponible pour **missions de conseil** en IA appliquée, optimisation cognitive, automatisation, structuration de systèmes et prototypage.
 
 ---
 
-## 🚀 Projets principaux
+# 🚀 Projets techniques
+
+## 🧠 Systèmes d’IA & outils cognitifs
 
 ### **Écosystème Triadique (Δ)**
-Méthodologie de travail à 3 agents :  
-**Humain → Cristalliseur → Itérateur**  
-Objectif : structuration, enrichissement, correction et synthèse des flux informationnels via logiciels et API dédiés.
+Architecture multi-agents : **Humain → Cristalliseur → Itérateur**.  
+But : première étape pour se familiariser avec la **méta-cognition** qui consiste à organiser, corriger et optimiser les flux informationnels via une méthodologie de travail pro-IA, des API et modules logiciels.
+👉 Lien repo : `[...]`
 
-### **Cerebral Hub** (développement fermé)
-OS étendu sur plusieurs supports interconnectés destiné à virtualiser :  
-compétences, activités, organisation, statistiques, inventaire mental, et premiers modules d’assistance AGI.
+### **Cerebral Hub** (développement privé)
+Plateforme interconnectée (desktop + mobile + AR) pour :  
+compétences, statistiques personnelles, mémoire externe, suivi d’activités, premiers modules d’assistance IA Générale.
+👉 Démo / doc privés, pochainement disponible au public.
 
-| Projet | Rôle |
-|--------|------|
-| **Sayca Labs** | Outils cognitifs & IA. |
-| **Sailor Energy** | Design & courtage de boissons personnalisées. |
-| **42 Nice** | Dév. bas-niveau : C, mémoire, processus, algorithmie. |
+**Note :** *Aucun contenu issu de l’École 42 n’est publié ou accessible publiquement, conformément aux règles de l’établissement.*
 
 ---
 
-## ⚙️ Compétences traitées
+# 🛠️ Compétences techniques
 
-### 🧩 IA & Développement
-- IA / Big Data : pipelines, entraînement, optimisation.  
-- Programmation : C, Python, JavaScript, Enforce Script, SQF.  
-- Modélisation : systèmes multi-agents, superviseurs, protocoles.  
+### Programmation & IA
+- C (bas-niveau : mémoire, parsing, processus, optimisation)
+- Modélisation IA : agents, superviseurs, protocoles cognitifs, forks.
 
-### 🎨 Design & Système
-- Identité visuelle & design produit.  
-- UX cognitive : hiérarchie, structuration, lisibilité.  
-- MAO & sound design.  
+### Architecture & Systèmes
+- Linux, Bash, gestion mémoire, conception modulaire  
+- Diagrammes, graphes informationnels, protocoles Homme-IA
 
----
-
-## ⬜️ En apprentissage 2025-2027
-- API IA : OpenAI, Anthropic, Mistral.  
-- Big Data : Pandas, Spark, ETL.  
-- Fine-tuning : FAISS, LoRA, HF.  
-- Sécurité : sandbox, filtrage I/O, RGPD.  
-- DevOps : Docker, Kubernetes, CI/CD.  
-- ML distribué : Dask, Ray.  
+### Design & UX cognitive
+- Structuration de l’information pour réduire la charge cognitive et fiabiliser davantage le travailleur
+- Identité visuelle, design produit, MAO
 
 ---
 
-## 📬 Contact
-🌐 Instagram : https://instagram.com/sayca.labs  
-💼 LinkedIn : https://linkedin.com/in/sayca  
-💬 Discord : @sayca
+# 📚 En cours d’apprentissage (2025-2027)
+- API IA : OpenAI, Mistral, Anthropic  
+- Big Data : Pandas, Spark, ETL  
+- DevOps : Docker, Kubernetes, CI/CD  
+- Sécurité : sandboxing, filtrage I/O, RGPD  
+- Fine-tuning : LoRA, FAISS, HuggingFace
+
+---
+
+# 📬 Contact
+- Instagram : https://instagram.com/sayca.labs  
+- LinkedIn : https://linkedin.com/in/sayca  
+- Discord : @sayca
