@@ -1,4 +1,4 @@
-# Étudiant IA & Big Data
+# 👋 Je suis Sayca
 ## Développement bas-niveau (42 Nice)  
 ### Architectures d’augmentation cognitive & consulting IA
 
