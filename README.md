@@ -34,7 +34,7 @@ Objectif : structuration, correction, synthèse puis supervision des flux cognit
 
 ### **Cerebral Hub** (en développement fermé)
 OS destiné à mesurer l'efficacité, les compétences et les domaines partagés par l'utilisateur pour son suivi d'augmentation cognitive.
-Alléger la charge mentale en allégeant la mémoire biologique de l'utilisateur pour préférer celle de l'OS, fournir des outils d'organisation et de suivi facilité sur les activités professionnelles nécessitant des compétences intellectuelles et cérébrales.
+Diminuer la charge mentale en allégeant la mémoire biologique de l'utilisateur pour préférer celle de l'OS, fournir des outils d'organisation et de suivi facilité sur les activités professionnelles nécessitant des compétences intellectuelles et cérébrales.
 Gamification des activités de l'utilisateur via un terminal type "inventaire et statistiques".
 
 | Projet | Rôle |
