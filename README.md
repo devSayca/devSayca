@@ -29,8 +29,8 @@ Au sein de **Sayca Labs**, j’explore une direction unique : développer des en
 ## 🚀 Projets majeurs
 
 ### **Ecosystème Triadique (Δ)**
-Méthodologie de travail et de création à 3 agents : Humain – Analyse – Production.  
-Objectif : structuration, correction, synthèse puis supervision des flux cognitifs.
+Méthodologie de travail et de création à 3 agents : Humain – Cristalliseur – Itérateur.  
+Objectif : cristallisation (structuration, enrichissement et correction) des pensées et des travaus humains, puis synthèse et supervision des flux cognitifs entre les deux IA et le bio.
 
 ### **Cerebral Hub** (en développement fermé)
 OS destiné à mesurer l'efficacité, les compétences et les domaines partagés par l'utilisateur pour son suivi d'augmentation cognitive.
