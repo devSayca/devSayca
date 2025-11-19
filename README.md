@@ -1,4 +1,5 @@
-### IA & Big Data — Développement bas-niveau (42 Nice)  
+# 👋 IA & Big Data
+##Développement bas-niveau (42 Nice)  
 ### Architectures d’augmentation cognitive & consulting IA
 
 Je conçois principalement des outils qui améliorent la clarté, la vitesse et la stabilité du raisonnement humain, ainsi que de son travail : structuration, continuité mentale, analyse assistée, copilotes IA et supervision intelligente.  
