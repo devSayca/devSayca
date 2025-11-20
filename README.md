@@ -25,22 +25,6 @@ compétences, statistiques personnelles, mémoire externe, suivi d’activités,
 
 ---
 
-# 🛠️ Compétences techniques
-
-### Programmation & IA
-- C (bas-niveau : mémoire, parsing, processus, optimisation)
-- Modélisation IA : agents, superviseurs, protocoles cognitifs, forks.
-
-### Architecture & Systèmes
-- Linux, Bash, gestion mémoire, conception modulaire  
-- Diagrammes, graphes informationnels, protocoles Homme-IA
-
-### Design & UX cognitive
-- Structuration de l’information pour réduire la charge cognitive et fiabiliser davantage le travailleur
-- Identité visuelle, design produit, MAO
-
----
-
 # 📚 En cours d’apprentissage (2025-2027)
 - API IA : OpenAI, Mistral, Anthropic  
 - Big Data : Pandas, Spark, ETL  
