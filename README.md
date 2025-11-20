@@ -9,12 +9,10 @@ Disponible pour **missions de conseil** en IA appliquée, optimisation cognitive
 
 # 🚀 Projets techniques
 
-## 🧠 Systèmes d’IA & outils cognitifs
-
 ### **Écosystème Triadique (Δ)**
 Architecture multi-agents : **Humain → Cristalliseur → Itérateur**.  
 But : première étape pour se familiariser avec la **méta-cognition** qui consiste à organiser, corriger et optimiser les flux informationnels via une méthodologie de travail pro-IA, des API et modules logiciels.
-👉 Lien repo : `[...]`
+👉 Lien de la doc : https://github.com/devSayca/Sayca-Delta
 
 ### **Cerebral Hub** (développement privé)
 Plateforme interconnectée (desktop + mobile + AR) pour :  
