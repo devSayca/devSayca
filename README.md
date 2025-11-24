@@ -17,6 +17,8 @@ création et tracking de compétences, statistiques personnelles, mémoire exter
 👉 Démo / doc privés, pochainement disponible au public.
 
 ### **Écosystème Triadique (Δ)**
+> Développement en Open-Research
+
 Architecture multi-agents : **Humain → Cristalliseur → Itérateur**.  
 But : première étape pour se familiariser avec la **méta-cognition** qui consiste à organiser, corriger et optimiser les flux informationnels via une méthodologie de travail pro-IA, des API et modules logiciels.
 👉 Lien de la doc : https://github.com/devSayca/Sayca-Delta
