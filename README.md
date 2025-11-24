@@ -21,7 +21,7 @@ création et tracking de compétences, statistiques personnelles, mémoire exter
 
 Architecture multi-agents : **Humain → Cristalliseur → Itérateur**.  
 But : première étape pour se familiariser avec la **méta-cognition** qui consiste à organiser, corriger et optimiser les flux informationnels via une méthodologie de travail pro-IA, des API et modules logiciels.
-👉 Lien de la doc : https://github.com/devSayca/Sayca-Delta
+👉 Lien de la doc : https://github.com/devSayca/Methode-Triadique
 
 
 
