@@ -9,15 +9,17 @@ Disponible pour **missions de conseil** en IA appliquée, optimisation cognitive
 
 # 🚀 Projets techniques
 
+### **COMESY (by Sayca Labs) - "Cognitive MetaSystem"** [développement privé]
+Méta-système (PC + smartphone + smartwatch + lunettes Réalité Augmentée) pour virtualiser le réel et permettre :  
+création et tracking de compétences, statistiques personnelles, mémoire externe, suivi d’activités, suivi des données sécurisées, gamification de la vie en général, premiers modules d’assistance et d'accélération par AGI émergente (IA next-gen).
+👉 Démo / doc privés, pochainement disponible au public.
+
 ### **Écosystème Triadique (Δ)**
 Architecture multi-agents : **Humain → Cristalliseur → Itérateur**.  
 But : première étape pour se familiariser avec la **méta-cognition** qui consiste à organiser, corriger et optimiser les flux informationnels via une méthodologie de travail pro-IA, des API et modules logiciels.
 👉 Lien de la doc : https://github.com/devSayca/Sayca-Delta
 
-### **Cerebral Hub** (développement privé)
-Plateforme interconnectée (desktop + mobile + AR) pour :  
-compétences, statistiques personnelles, mémoire externe, suivi d’activités, premiers modules d’assistance IA Générale.
-👉 Démo / doc privés, pochainement disponible au public.
+
 
 **Note :** *Aucun contenu issu de l’École 42 n’est publié ou accessible publiquement, conformément aux règles de l’établissement.*
 
