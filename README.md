@@ -9,7 +9,8 @@ Disponible pour **missions de conseil** en IA appliquée, optimisation cognitive
 
 # 🚀 Projets techniques
 
-### **COMESY (by Sayca Labs) - "Cognitive MetaSystem"** [développement privé]
+### **COMESY by Sayca Labs - "Cognitive MetaSystem"**
+> Développement en phase privée
 Méta-système (PC + smartphone + smartwatch + lunettes Réalité Augmentée) pour virtualiser le réel et permettre :  
 création et tracking de compétences, statistiques personnelles, mémoire externe, suivi d’activités, suivi des données sécurisées, gamification de la vie en général, premiers modules d’assistance et d'accélération par AGI émergente (IA next-gen).
 👉 Démo / doc privés, pochainement disponible au public.
