@@ -8,7 +8,7 @@ Je conçois principalement des outils qui tendent à améliorer la clarté, la v
 
 # 🚀 PORTFOLIO principal
 
-### **COMESY (Cognitive MetaSystem – Sayca Labs)**
+### **Comesy (Cognitive MetaSystem)**
 > Développement privé pour le moment
 
 Méta-système connecté cross-platform (PCs, smartphone, smartwatch, lunettes de réalité augmentée) pour virtualiser le maximum de données réelles, en respect des RGPD, et permettre : 
