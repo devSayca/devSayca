@@ -16,7 +16,8 @@ l'initialisation et le tracking des compétences pro & perso de l'utilisateur, s
 👉 Démo / doc privés, pochainement disponible au public.
 
 ### **Méthode Triadique (Δ)**
-> Application et normalisation des rapports humains face aux intelligences externes (IA et AGI faibles).
+> Application et normalisation des rapports humains face à différentes IA & AGI.
+
 Méthodologie multi-agents : **Humain → Cristalliseur IA → Processeur IA**.  
 But : étape pour se familiariser avec la **méta-cognition** qui consiste à organiser, corriger et optimiser les idées humai’es & flux informationnels via une méthodologie de travail intégrant API et modules logiciels.
 👉 Lien de la doc : https://github.com/devSayca/Methode-Triadique
