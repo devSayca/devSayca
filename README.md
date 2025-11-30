@@ -1,26 +1,25 @@
 # 👋 Je suis Sayca
-## Développement bas-niveau (42 Nice)  
-### Architectures d’augmentation cognitive & consulting IA
+## Actuellement : Développement bas-niveau (42 Nice)  
+### Objrctif : ahitectures d’augmentation cognitive & consulting IA
 
-Je conçois principalement des outils qui améliorent la clarté, la vitesse et la stabilité du raisonnement humain, ainsi que de son travail : structuration, continuité mentale, analyse assistée, copilotes IA et supervision intelligente.  
-Disponible pour **missions de conseil** en IA appliquée, optimisation cognitive, automatisation, structuration de systèmes et prototypage.
+Je conçois principalement des outils qui améliorent la clarté, la vitesse et la stabilité du raisonnement humain, ainsi que de son travail : structuration, continuité mentale, analyse assistée, copilotes IA fiabilisés et supervision intelligente.  
+**Disponible directement pour missions de conseil** en IA appliquée, optimisation cognitive, automatisation, structuration de systèmes et prototypage.
 
 ---
 
-# 🚀 Projets techniques
+# 🚀 PORTFOLIO principal
 
-### **COMESY - Sayca Labs "Cognitive MetaSystem"**
-> Développement en phase privée
+### **COMESY (Cognitive MetaSystem – Sayca Labs)**
+> 1er projet en développement continu
 
-Méta-système embarqué (PC + smartphone + smartwatch + lunettes de réalité augmentée) pour virtualiser le réel et permettre : 
-création et tracking de compétences, statistiques personnelles, mémoire externe, suivi d’activités, suivi des données sécurisées, gamification de la vie en général, premiers modules d’assistance et d'accélération par AGI émergente (IA next-gen).
+Méta-système connecté cross-platform (PCs, smartphone, smartwatch, lunettes de réalité augmentée) pour virtualiser le maximum de données réelles et permettre : 
+l'initialisation et le tracking des compétences pro/perso de l'utilisateur, statistiques personnelles à volonté, extension et supervision de la mémoire, suivi d’activités à volonté, gamification de la vie en général, premiers modules d’assistance et d'accélération par AGI émergente (IA next-gen).
 👉 Démo / doc privés, pochainement disponible au public.
 
-### **Écosystème Triadique (Δ)**
-> Développement en Open-Research
-
-Architecture multi-agents : **Humain → Cristalliseur → Itérateur**.  
-But : première étape pour se familiariser avec la **méta-cognition** qui consiste à organiser, corriger et optimiser les flux informationnels via une méthodologie de travail pro-IA, des API et modules logiciels.
+### **Méthode Triadique (Δ)**
+> Application et normalisation des rapports humains face aux intelligences externes (IA et AGI faibles).
+Méthodologie multi-agents : **Humain → Cristalliseur IA → Processeur IA**.  
+But : étape pour se familiariser avec la **méta-cognition** qui consiste à organiser, corriger et optimiser les idées humai’es & flux informationnels via une méthodologie de travail intégrant API et modules logiciels.
 👉 Lien de la doc : https://github.com/devSayca/Methode-Triadique
 
 
