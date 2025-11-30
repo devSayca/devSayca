@@ -1,25 +1,26 @@
 # 👋 Je suis Sayca
 ### Augmentation cognitive et développement bas-niveau (42 Nice)  
 
-Je conçois principalement des outils qui tendent à améliorer la clarté, la vitesse et la stabilité du raisonnement humain, ainsi que de son travail : structuration, continuité mentale, analyse assistée, copilotes IA fiabilisés et supervision intelligente.  
+Je conçois principalement des outils qui tendent à améliorer la clarté, la vitesse et la stabilité du raisonnement humain, ainsi que de son travail.
+> Structuration, continuité mentale, analyse documentée, copilotes IA fiabilisés et supervision intelligente.
+
 **Disponible directement pour missions de conseil** en IA appliquée, optimisation cognitive, automatisation, structuration de systèmes et prototypage.
+Désapprentissage de vibe-codings problématiques et fiabilisation des relations Homme–IA.
 
 ---
 
-# 🚀 PORTFOLIO principal
+# 🚀 Portfolio principal
 
-### **Comesy (Cognitive MetaSystem)**
-> Développement privé pour le moment
+### **Comesy (Cognitive Metasystem)**
+> Développement fermé
 
-Méta-système connecté cross-platform (PCs, smartphone, smartwatch, lunettes de réalité augmentée) pour virtualiser le maximum de données réelles, en respect des RGPD, et permettre : 
-l'initialisation et le tracking des compétences pro & perso de l'utilisateur, statistiques personnelles, augmentation et supervision de la mémoire, suivi d’activités à volonté, gamification de la vie en général, premiers modules d’assistance et d'accélération par AGI émergente.
+Interface cross-platform de suivi cognitif complet, dashboards personnels, modules IA pour structuration et continuité mentale, gamification de la vie en général.
 👉 Démo / doc privés, pochainement disponible au public.
 
 ### **Méthode Triadique (Δ)**
-> Application et normalisation des rapports humains face à différentes IA & AGI.
+> Application et normalisation des rapports humains face à différentes IA.
 
-Méthodologie multi-agents : **Humain → Cristalliseur IA → Processeur IA**.  
-But : étape pour se familiariser avec la **méta-cognition** qui consiste à organiser, corriger et optimiser les idées humai’es & flux informationnels via une méthodologie de travail intégrant API et modules logiciels.
+Un protocole de travail pour organiser idées, tâches, décisions via IA superviseur + IA exécutrice, bien plus rapidement qu'un travail sans IA, ou avec un usage non structuré.
 👉 Lien de la doc : https://github.com/devSayca/Methode-Triadique
 
 
