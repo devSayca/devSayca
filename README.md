@@ -10,7 +10,6 @@ Désapprentissage de vibe-codings problématiques et fiabilisation des relations
 ---
 
 # 🚀 Projets en cours
-## Portfolio incomplet pour le moment
 
 ### **Comesy (Cognitive Metasystem)**
 > Développement fermé
