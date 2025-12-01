@@ -11,13 +11,6 @@
 3. « S’assurer que l’IA soutienne l’ascension intellectuelle plutôt qu’un nivellement cognitif généralisé. »
 
 
-# 📚 En cours d’apprentissage (2025-2027)
-- API IA : OpenAI, Mistral, Anthropic  
-- Big Data : Pandas, Spark, ETL  
-- DevOps : Docker, Kubernetes, CI/CD  
-- Sécurité : sandboxing, filtrage I/O, RGPD  
-- Fine-tuning : LoRA, FAISS, HuggingFace
-
 ---
 
 # 📬 Contact
