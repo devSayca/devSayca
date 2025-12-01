@@ -1,3 +1,5 @@
+***Étudiant bas-niveau IA/BigData & Architecture cognitive***
+
 # 👋 Code d'usage IA
 
 1. « Éviter que l’assistance IA n’entraîne une érosion de l’effort cognitif et du discernement humain. »
