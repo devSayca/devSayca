@@ -1,5 +1,5 @@
 ### Étudiant bas-niveau (École 42)
-### Domaines des IA/AGI, BigData & Architectures cognitives***
+### Domaines des IA & pré-AGI, BigData & Architectures cognitives
 
 # 👋 Code d'usage IA
 
