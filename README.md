@@ -1,7 +1,9 @@
 # 🧠 Profil
 
-**Étudiant en ingénierie bas-niveau – École 42**  
-**Domaines : IA & pré-AGI · Big Data · Architectures cognitives · Systèmes augmentés**
+**Étudiant en ingénierie bas-niveau**
+École 42 Nice
+ 
+**Domaines : IA, pré-AGI, Big Data, Ascension de l'intelligence en symbiose Homme-IA**
 
 Travail centré sur la conception de cadres cognitifs hybrides (humain–machine), la structuration de systèmes algorithmiques et l’étude des conditions nécessaires à une augmentation de l’esprit humain sans perte d’autonomie.
 
