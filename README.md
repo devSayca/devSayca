@@ -1,20 +1,43 @@
-### Étudiant bas-niveau (École 42)
-### Domaines des IA & pré-AGI, BigData & Architectures cognitives
+# 🧠 Profil
 
-# 👋 Code d'usage IA
+**Étudiant en ingénierie bas-niveau – École 42**  
+**Domaines : IA & pré-AGI · Big Data · Architectures cognitives · Systèmes augmentés**
 
-1. « Éviter que l’assistance IA n’entraîne une érosion de l’effort cognitif et du discernement humain. »
-Les intelligences extérieures (sous forme d'IA pour aujourd'hui) doivent rester des outils cognitifs complémentaires, et non des prescriptrices de principes.
+Travail centré sur la conception de cadres cognitifs hybrides (humain–machine), la structuration de systèmes algorithmiques et l’étude des conditions nécessaires à une augmentation de l’esprit humain sans perte d’autonomie.
 
+---
 
+# 📘 Code d’usage des IA
 
-2. « Protéger la diversité et la profondeur du raisonnement humain face au risque de standardisation induit par les usages faibles de l’IA. »
-La publication des IA sans formation de la population est risquée et promet des dérives d'affaiblissement cognitif difficiles à rattraper.
+## 1. Préservation de l’effort cognitif
 
+**Principe**  
+L’assistance algorithmique ne doit pas diminuer la capacité de raisonnement autonome ni le discernement critique de l'humain.
 
-3. « S’assurer que l’IA soutienne l’ascension intellectuelle plutôt qu’un nivellement cognitif généralisé. »
-Trouver des sorties à délégation totale du raisonnement et à la délégation systémique des IA et futures AGI.
+**Implication**  
+Les intelligences extérieures servent à amplifier et structurer la pensée humaine.  
+Elles ne définissent ni les finalités, ni les principes directeurs.
 
+---
+
+## 2. Préservation de la diversité cognitive
+
+**Principe**  
+L’usage non encadré des IA génératives favorise la standardisation des raisonnements et la réduction des stratégies mentales.
+
+**Implication**  
+La diffusion de ces outils sans formation méthodologique produit une homogénéisation cognitive difficilement réversible.
+
+---
+
+## 3. Promotion de l’ascension intellectuelle
+
+**Principe**  
+L’IA doit soutenir la montée en complexité des compétences humaines, non s’y substituer.
+
+**Implication**  
+Éviter la délégation totale du raisonnement et la dépendance systémique aux IA et futures pré-AGI.  
+Objectif : renforcer le méta-raisonnement, la capacité d’abstraction et la qualité de traitement cognitif.
 
 ---
 
