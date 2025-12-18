@@ -1,29 +1,51 @@
-
 **Sommaire**
 1. Profil
 2. Règles et position d'ingénierie
-3. Mes compétences / opérabilité
+3. Compétences et opérabilité
 
-# 🧠 Profil (Manifeste)
+# 🧠 Profil
+## 1. Architecte de systèmes cognitifs Homme–IA
+**Préparation à l’orchestration, la supervision et la gouvernance de systèmes d’intelligence générale (AGI) puis supra-humaines.**
 
-**Étudiant en ingénierie bas-niveau**
-École 42 Nice
- 
-**Domaines : IA (LLM, systèmes cognitifs artificiels émergents), BigData**
+**Axes:** Garantie de l'ascension intellectuelle de l'Humain et de l'Artificiel, avec contrôle fondamental de l'éthique.
 
-**Axe : Garantie de l'ascension intellectuelle en relations Homme–machine**
+Je travaille à la conception d’architectures cognitives capables de soutenir une collaboration structurée entre intelligence humaine et intelligences artificielles avancées (pré-AGI, AGI), dans des contextes où :
+- la puissance computationnelle dépasse l’humain,
+- la décision doit rester traçable,
+- le système doit être stoppable, supervisable et explicable.
 
-Travail centré sur la conception de symbiose cognitive *(humain–machine)*, l'écriture de systèmes algorithmiques et l’étude des conditions nécessaires à une **augmentation** de l’esprit humain sans perte d’**autonomie**, sans dégradation de l'**éthique**, avec **optimisation énergétique**.
+Cette trajectoire vise à rendre l’humain capable de rester
+l’architecte et le garant de systèmes plus intelligents que lui,
+et non leur exécutant passif.
+
+## 2. Étudiant en ingénierie bas-niveau
+**École 42 Nice - Ambassadeur et étudiant**
+La pratique du bas-niveau constitue une discipline volontaire, non une finalité professionnelle.
+La méthode peer-to-peer de 42 est particulièrement adaptée à l’apprentissage et au partage de systèmes complexes.
+
+Elle me permet de :
+- maîtriser les contraintes computationnelles fondamentales (temps, mémoire, déterminisme),
+- développer une intuition causale des systèmes,
+- éviter les illusions liées aux abstractions haut-niveau,
+- nourrir une capacité réelle à architecturer des systèmes complexes et intelligents.
+
+**Je pratique le bas-niveau pour ne jamais confondre abstraction et réalité.**
+Le code est un instrument de calibration.
+L'architecture est l’objectif.
+
+## Limites assumées
+Je privilégie aujourd’hui la compréhension profonde,
+la rigueur conceptuelle et la gouvernance des systèmes
+à la productivité ou à l’optimisation court terme.
 
 ---
 
 # 📘 Règles et Position d'ingénierie
 
-L’humain n’est pas intrinsèquement digne d’être augmenté sans conditions, car c'est le maillon faible dans les échanges entre l'Homme et la Machine.
-
 Les LLM amplifient les bons travailleurs mais aussi les mauvais, sans modifier leur direction.
-
-⚠️ Affirmation systémique et technique, et non morale.
+**L’humain ne peut être augmenté sans conditions, car il constitue aujourd’hui le maillon le plus instable dans les relations Homme–Machine.**
+⚠️ Cette affirmation est structurelle et systémique, pas morale.
+> Elle concerne la fiabilité des processus cognitifs humains dans des systèmes hybrides, non la valeur ou la dignité de l’individu.
 
 ## 1. Préservation de l’effort cognitif
 
