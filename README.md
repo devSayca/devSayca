@@ -1,14 +1,15 @@
 # Profil de Sayca (Jason Ferone)
 
-> Orienté développement, fiabilité et compréhension humaine des systèmes intelligents (logiciels & embarqués)
-> Programmation bas-niveau comme discipline. IA comme amplificateur contrôlé. Architecture comme objectif.
+1. Développement, fiabilité, gouvernance et compréhension humaine des systèmes intelligents (logiciels & embarqués)
+2. Programmation bas-niveau comme discipline · IA comme amplificateur contrôlé · Architecture comme objectif
+3. **Audit, structuration et développement** de systèmes logiciels critiques ou hybrides
 
 ---
 
 # Intéragir pour voir la suite
 
 <details>
-<summary><strong>🧠 PROFIL </strong></summary>
+<summary><strong>🧠 Positionnement & trajectoire</strong></summary>
 
 ### A. Architecte de systèmes cognitifs Homme–IA
 **Préparation à l’orchestration, la supervision et la gouvernance de systèmes d’intelligence faible (LLM), générale (AGI) puis supra-humaines.**
