@@ -12,6 +12,7 @@
 ```
 Je travaille à la conception d’architectures cognitives capables de soutenir une collaboration
 structurée entre intelligence humaine et IA faibles/avancées dans des contextes où :
+
 - la puissance computationnelle dépasse l’humain,
 - la décision doit rester traçable,
 - le système doit être stoppable, supervisable et explicable.
@@ -29,6 +30,7 @@ La méthode peer-to-peer de 42 est particulièrement adaptée à l’apprentissa
 
 ```
 Elle me permet de :
+
 - maîtriser les contraintes computationnelles fondamentales (temps, mémoire, déterminisme),
 - développer une intuition causale des systèmes,
 - éviter les illusions liées aux abstractions haut-niveau,
@@ -48,14 +50,14 @@ la rigueur conceptuelle et la gouvernance des systèmes
 
 # 📘 Règles et Position d'ingénierie
 
-Les LLM amplifient les bons travailleurs mais aussi les mauvais, sans modifier leur direction.
+`Les LLM amplifient les bons travailleurs mais aussi les mauvais, sans modifier leur direction.`
 **L’humain ne peut être augmenté sans conditions, car il constitue aujourd’hui le maillon le plus instable dans les relations Homme–Machine.**
 ⚠️ Cette affirmation est structurelle et systémique, pas morale.
 > Elle concerne la fiabilité des processus cognitifs humains dans des systèmes hybrides, non la valeur ou la dignité de l’individu.
 
 ## 1. Préservation de l’effort cognitif
 
-**Principe**  
+**Principe**
 L’assistance algorithmique (vulgairement appelée "IA copilote") ne doit pas diminuer la capacité de raisonnement autonome ni le discernement critique de l'humain.
 
 **Implication**  
