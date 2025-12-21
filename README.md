@@ -20,6 +20,7 @@ et non leur exécutant passif.
 
 ## 2. Étudiant en ingénierie bas-niveau
 **École 42 Nice - Ambassadeur et étudiant**
+
 La pratique du bas-niveau constitue une discipline volontaire, non une finalité professionnelle.
 La méthode peer-to-peer de 42 est particulièrement adaptée à l’apprentissage et au partage de systèmes complexes.
 
