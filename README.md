@@ -5,10 +5,10 @@
 
 ---
 
-# Sommaire
+# Intéragir pour voir la suite
 
 <details>
-<summary><strong>🧠 Mon Profil</strong></summary>
+<summary><strong>🧠 PROFIL </strong></summary>
 
 ### A. Architecte de systèmes cognitifs Homme–IA
 **Préparation à l’orchestration, la supervision et la gouvernance de systèmes d’intelligence faible (LLM), générale (AGI) puis supra-humaines.**
