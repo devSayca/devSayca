@@ -1,20 +1,14 @@
 # 🧠 Sayca — Architecte de systèmes cognitifs Homme–IA
 
-> **TL;DR** — Architecte orienté gouvernance, fiabilité et compréhension humaine des systèmes intelligents.  
+> Orienté développement, gouvernance, fiabilité et compréhension humaine des systèmes intelligents.  
 > Bas-niveau comme discipline. IA comme amplificateur contrôlé. Architecture avant performance.
 
 ---
 
-## Sommaire
-1. 🧠 Profil  
-2. 📘 Règles et position d’ingénierie  
-3. ⚙️ Compétences et opérabilité  
-4. 🏢 Consulting, installations, développement logiciel
-
----
+# Sommaire
 
 <details>
-<summary><strong>🧠 Profil</strong></summary>
+<summary><strong>🧠 Mon Profil</strong></summary>
 
 ### A. Architecte de systèmes cognitifs Homme–IA
 **Préparation à l’orchestration, la supervision et la gouvernance de systèmes d’intelligence faible (LLM), générale (AGI) puis supra-humaines.**
