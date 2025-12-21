@@ -5,7 +5,7 @@
 
 # 🧠 Profil
 ## 1. Architecte de systèmes cognitifs Homme–IA
-**Préparation à l’orchestration, la supervision et la gouvernance de systèmes d’intelligence générale (AGI) puis supra-humaines.**
+**Préparation à l’orchestration, la supervision et la gouvernance de systèmes d’intelligence faible (IA LLM), générale (AGI) puis supra-humaines.**
 
 **Axes:** Garantie de l'ascension intellectuelle de l'Humain et de l'Artificiel, avec contrôle fondamental de l'éthique.
 
