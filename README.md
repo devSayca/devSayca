@@ -9,6 +9,7 @@
 
 **Axes:** Garantie de l'ascension intellectuelle de l'Humain et de l'Artificiel, avec contrôle fondamental de l'éthique.
 
+```
 Je travaille à la conception d’architectures cognitives capables de soutenir une collaboration structurée entre intelligence humaine et intelligences artificielles avancées (pré-AGI, AGI), dans des contextes où :
 - la puissance computationnelle dépasse l’humain,
 - la décision doit rester traçable,
@@ -17,6 +18,7 @@ Je travaille à la conception d’architectures cognitives capables de soutenir 
 Cette trajectoire vise à rendre l’humain capable de rester
 l’architecte et le garant de systèmes plus intelligents que lui,
 et non leur exécutant passif.
+```
 
 ## 2. Étudiant en ingénierie bas-niveau
 **École 42 Nice - Ambassadeur et étudiant**
@@ -24,11 +26,13 @@ et non leur exécutant passif.
 La pratique du bas-niveau constitue une discipline volontaire, non une finalité professionnelle.
 La méthode peer-to-peer de 42 est particulièrement adaptée à l’apprentissage et au partage de systèmes complexes.
 
+```
 Elle me permet de :
 - maîtriser les contraintes computationnelles fondamentales (temps, mémoire, déterminisme),
 - développer une intuition causale des systèmes,
 - éviter les illusions liées aux abstractions haut-niveau,
 - nourrir une capacité réelle à architecturer des systèmes complexes et intelligents.
+```
 
 **Je pratique le bas-niveau pour ne jamais confondre abstraction et réalité.**
 Le code est un instrument de calibration.
