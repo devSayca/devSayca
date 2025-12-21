@@ -57,7 +57,8 @@ au détriment volontaire de la productivité ou de l’optimisation court terme.
 <details>
 <summary><strong>📘 Règles et position d’ingénierie</strong></summary>
 
-`Les LLM amplifient les bons travailleurs comme les mauvais, sans modifier leur direction.`  
+> Les LLM amplifient les bons travailleurs comme les mauvais, sans modifier leur direction.
+
 **L’humain ne peut être augmenté sans conditions : il reste aujourd’hui le maillon le plus instable des systèmes Homme–Machine.**
 
 > Affirmation structurelle et systémique, non morale : elle concerne la fiabilité cognitive, pas la dignité humaine.
@@ -104,10 +105,10 @@ au détriment volontaire de la productivité ou de l’optimisation court terme.
 ---
 
 <details>
-<summary><strong>🏢 Consulting, installations, développement logiciel</strong></summary>
+<summary><strong>🏢 Consultation | installations | développement logiciel</strong></summary>
 
-### Positionnement
-Intervention comme **opérateur d’architecture et de fiabilité** : analyse, clarification et structuration de systèmes techniques ou hybrides Homme–IA.
+### Périmètre d’intervention
+**Opérateur d’architecture et de fiabilité** : analyse, clarification, sécurisation et structuration de systèmes techniques ou hybrides Homme–IA.
 
 Objectif constant : **systèmes compréhensibles, supervisables et gouvernables par l’humain.**
 
@@ -134,12 +135,6 @@ Objectif constant : **systèmes compréhensibles, supervisables et gouvernables 
 - Prototypes d’outils cognitifs assistés par IA
 
 Contraintes : lisibilité > performance brute · architecture > vitesse · compréhension humaine prioritaire
-
----
-
-### Cadre de collaboration
-✔ Analyse honnête et transmission de compréhension  
-✖ Code opaque, automatisation aveugle, suppression de responsabilité humaine
 
 </details>
 
