@@ -1,7 +1,7 @@
-# 🧠 Sayca — Architecte de systèmes cognitifs Homme–IA
+# Architecte de systèmes cognitifs Homme–IA
 
 > Orienté développement, gouvernance, fiabilité et compréhension humaine des systèmes intelligents.  
-> Bas-niveau comme discipline. IA comme amplificateur contrôlé. Architecture avant performance.
+> Programmation bas-niveau comme discipline. IA comme amplificateur contrôlé. Architecture comme objectif.
 
 ---
 
