@@ -4,13 +4,14 @@
 3. Compétences et opérabilité
 
 # 🧠 Profil
-## 1. Architecte de systèmes cognitifs Homme–IA
+## A. Architecte de systèmes cognitifs Homme–IA
 **Préparation à l’orchestration, la supervision et la gouvernance de systèmes d’intelligence faible (IA LLM), générale (AGI) puis supra-humaines.**
 
 **Axes:** Garantie de l'ascension intellectuelle de l'Humain et de l'Artificiel, avec contrôle fondamental de l'éthique.
 
 ```
-Je travaille à la conception d’architectures cognitives capables de soutenir une collaboration structurée entre intelligence humaine et intelligences artificielles avancées (pré-AGI, AGI), dans des contextes où :
+Je travaille à la conception d’architectures cognitives capables de soutenir une collaboration
+structurée entre intelligence humaine et IA faibles/avancées dans des contextes où :
 - la puissance computationnelle dépasse l’humain,
 - la décision doit rester traçable,
 - le système doit être stoppable, supervisable et explicable.
@@ -20,7 +21,7 @@ l’architecte et le garant de systèmes plus intelligents que lui,
 et non leur exécutant passif.
 ```
 
-## 2. Étudiant en ingénierie bas-niveau
+## B. Étudiant en ingénierie bas-niveau
 **École 42 Nice - Ambassadeur et étudiant**
 
 La pratique du bas-niveau constitue une discipline volontaire, non une finalité professionnelle.
