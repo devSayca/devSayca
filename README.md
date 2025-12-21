@@ -1,6 +1,6 @@
-# Architecte de systèmes cognitifs Homme–IA
+# Profil de "Sayca" Jason Ferone
 
-> Orienté développement, gouvernance, fiabilité et compréhension humaine des systèmes intelligents.  
+> Orienté développement, fiabilité et compréhension humaine des systèmes intelligents (logiciels & embarqués)
 > Programmation bas-niveau comme discipline. IA comme amplificateur contrôlé. Architecture comme objectif.
 
 ---
