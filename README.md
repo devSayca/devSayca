@@ -6,7 +6,7 @@
 
 ---
 
-# Intéragir pour voir la suite
+# Profil détaillé
 
 <details>
 <summary><strong>🧠 Positionnement & trajectoire</strong></summary>
@@ -183,7 +183,7 @@ Contraintes : lisibilité > performance brute · architecture > vitesse · compr
 ## 📊 Statistiques de Contribution au Projet
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO&show_icons=true&theme=tokyonight)
 
-<\details>
+</details>
 
 ---
 
