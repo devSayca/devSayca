@@ -107,14 +107,13 @@ au détriment volontaire de la productivité ou de l’optimisation court terme.
 <details>
 <summary><strong>🏢 Services que je propose</strong></summary>
 
-### Périmètre d’intervention
-**Opérateur d’architecture et de fiabilité** : analyse, clarification, sécurisation et structuration de systèmes techniques ou hybrides Homme–IA.
+**Opérations d’architecture, d'installation et de fiabilité** : analyse, clarification, sécurisation et structuration de systèmes software et hardware Homme–IA.
 
 Objectif constant : **systèmes compréhensibles, supervisables et gouvernables par l’humain.**
 
 ---
 
-### Consulting
+### 1) Consulting
 - Audit de systèmes logiciels et processus existants
 - Analyse des usages IA et dépendances cognitives
 - Structuration de projets complexes
@@ -122,14 +121,14 @@ Objectif constant : **systèmes compréhensibles, supervisables et gouvernables 
 
 ---
 
-### Installation & systèmes
+### 2) Installation & systèmes
 - Environnements Linux / VM / serveurs légers
 - Configuration minimale, sécurisée et documentée
 - Traçabilité et supervision humaine prioritaires
 
 ---
 
-### Développement logiciel
+### 3) Développement logiciel
 - Outils bas‑niveau et utilitaires systèmes
 - Bibliothèques C robustes et pédagogiques
 - Prototypes d’outils cognitifs assistés par IA
