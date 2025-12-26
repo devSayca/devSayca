@@ -1,8 +1,8 @@
-# Profil de Sayca (Jason Ferone)
+# Profil résumé de Sayca (Jason Ferone)
 
 1. Développement, fiabilité, gouvernance et compréhension humaine des systèmes intelligents (logiciels & embarqués)
 2. Programmation bas-niveau comme discipline · IA comme amplificateur contrôlé · Architecture comme objectif
-3. **Audit, structuration et développement** de systèmes logiciels critiques ou hybrides
+3. Services actuels: **Audit, structuration et développement** de systèmes logiciels critiques ou hybrides
 
 ---
 
@@ -137,6 +137,54 @@ Objectif constant : **systèmes compréhensibles, supervisables et gouvernables 
 Contraintes : lisibilité > performance brute · architecture > vitesse · compréhension humaine prioritaire
 
 </details>
+
+---
+
+<details>
+<summary><strong>📋 Objectifs et projets professionnels</strong></summary>
+
+# 🌐 Volontés : Du code bas-niveau au complexe (2025-2075)
+
+> "Je ne cherche pas qu'un boulot pour vivre, ou pour fonder une vie sécurisé. Chaque étape sert à une vision massivement ambitieuse."
+
+---
+
+## 🚀 La Roadmap des 50 Ans
+
+### 🏗️ Phase I : 2025 - 2030 | Fondations du dev informatique
+**Focus :** Maîtrise technologique et outils de souveraineté.
+- [ ] **City OS Core :** Architecture micro-services pour la gestion de ressources (Rust/Python).
+- [ ] **Comesy Alpha :** Système d'XP et de quêtes IRL (Social Graph / Web3).
+- [ ] **RWA Tokenization :** Protocoles de fractionnement foncier sous MiCA.
+
+### 🌲 Phase II : 2030 - 2045 | Premières application larges
+**Focus :** Passage du code au sol.
+- [ ] Acquisition d'un terrain test (Zone Naturelle).
+- [ ] Implémentation du "Legal Wrapper" (Structure hybride État/DAO).
+- [ ] Automatisation des communs (Eau/Énergie/Déchets) via IA.
+
+### 🗺️ Phase III : 2045+ | État-Réseau
+**Focus :** Expansion et interconnexion.
+- [ ] Création d'un réseau de Charter Cities gérées par City OS.
+- [ ] Souveraineté fonctionnelle et diplomatique.
+
+---
+
+## 🛠️ Grille de Compétences professionnelles (temps réel)
+
+| Domaine | Compétence | Niveau | Projets Liés |
+| :--- | :--- | :--- | :--- |
+| **Blockchain** | Solidity / Smart Contracts | ▓▓▓░░░░░░░ | Comesy Rewards |
+| **IA** | LLM Agents & Computer Vision | ▓▓▓▓░░░░░░ | City OS Governance |
+| **Système** | IoT & City OS Infrastructure | ▓▓░░░░░░░░ | Hardware Bridge |
+| **Légal** | Droit RWA & MiCA Compliance | ▓░░░░░░░░░ | Financial Layer |
+
+---
+
+## 📊 Statistiques de Contribution au Projet
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO&show_icons=true&theme=tokyonight)
+
+<\details>
 
 ---
 
