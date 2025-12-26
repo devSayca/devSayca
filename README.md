@@ -1,4 +1,4 @@
-# Résumé rapide du profil (Sayca - Jason Ferone)
+# Résumé rapide (Sayca - Jason Ferone)
 
 1. Développement, fiabilité, gouvernance et compréhension humaine des systèmes intelligents (logiciels & embarqués)
 2. Programmation bas-niveau comme discipline · IA comme amplificateur contrôlé · Architecture comme objectif
