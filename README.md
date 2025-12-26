@@ -1,6 +1,6 @@
 # Résumé rapide Sayca (Jason Ferone) 
 
-1. Développement, fiabilité, gouvernance et compréhension humaine des systèmes intelligents (logiciels & embarqués)
+1. Développement, fiabilité, gouvernance et compréhension humaine des systèmes faible intelligence (IA LLM, logiciels standalone & embarqués)
 2. Programmation bas-niveau comme discipline · IA comme amplificateur contrôlé · Architecture comme objectif
 3. Services actuels: **Audit, structuration et développement** de systèmes logiciels critiques ou hybrides
 
