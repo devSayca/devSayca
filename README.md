@@ -87,7 +87,7 @@ au détriment volontaire de la productivité ou de l’optimisation court terme.
 ---
 
 <details>
-<summary><strong>⚙️ Mes compétences / opérabilité</strong></summary>
+<summary><strong>⚙️ Mes compétences</strong></summary>
 
 > Capacités techniques réelles et trajectoire de progression
 
