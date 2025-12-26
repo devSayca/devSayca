@@ -1,4 +1,4 @@
-# Profil résumé de Sayca (Jason Ferone)
+# Résumé rapide du profil (Sayca - Jason Ferone)
 
 1. Développement, fiabilité, gouvernance et compréhension humaine des systèmes intelligents (logiciels & embarqués)
 2. Programmation bas-niveau comme discipline · IA comme amplificateur contrôlé · Architecture comme objectif
@@ -87,7 +87,7 @@ au détriment volontaire de la productivité ou de l’optimisation court terme.
 ---
 
 <details>
-<summary><strong>⚙️ Compétences et opérabilité</strong></summary>
+<summary><strong>⚙️ Mes compétences / opérabilité</strong></summary>
 
 > Capacités techniques réelles et trajectoire de progression
 
@@ -105,7 +105,7 @@ au détriment volontaire de la productivité ou de l’optimisation court terme.
 ---
 
 <details>
-<summary><strong>🏢 Consultation | installations | développement logiciel</strong></summary>
+<summary><strong>🏢 Services que je propose</strong></summary>
 
 ### Périmètre d’intervention
 **Opérateur d’architecture et de fiabilité** : analyse, clarification, sécurisation et structuration de systèmes techniques ou hybrides Homme–IA.
@@ -141,7 +141,7 @@ Contraintes : lisibilité > performance brute · architecture > vitesse · compr
 ---
 
 <details>
-<summary><strong>📋 Objectifs et projets professionnels</strong></summary>
+<summary><strong>📋 Objectifs et manifeste professionnel</strong></summary>
 
 # 🌐 Volontés : Du code bas-niveau au complexe (2025-2075)
 
