@@ -145,7 +145,7 @@ Contraintes : lisibilité > performance brute · architecture > vitesse · compr
 
 # 🌐 Volontés : Du code bas-niveau au complexe (2025-2075)
 
-> "Je ne cherche pas qu'un boulot pour vivre, ou pour fonder une vie sécurisé. Chaque étape sert à une vision massivement ambitieuse."
+> "Je ne cherche pas un simple boulot pour vivre ou pour fonder une vie sécurisé. Chaque étape sert à une vision massivement ambitieuse, en voici un résumé :"
 
 ---
 
