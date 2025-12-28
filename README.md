@@ -1,9 +1,8 @@
 # Résumé rapide Sayca (Jason Ferone) 
 
-1. **Discipline & Architecture** : Programmation bas-niveau (C/42) pour la rigueur · IA comme amplificateur de raisonnement contrôlé.
-2. **Gouvernance des Systèmes** : Réduction du **décalage prométhéen** — l'écart entre la puissance de calcul brute (P_tech) et la supervision humaine (W_user).
-   > **Formule de stabilité :** ΔP = P_tech / W_user (Objectif : ΔP ≤ 1)
-3. **Services** : **Audit, structuration et développement** de systèmes logiciels critiques ou hybrides (Homme-Machine).
+1. **Discipline** : Programmation bas-niveau (C/42) pour la rigueur matérielle · IA comme amplificateur contrôlé · Architecture comme objectif ultime.
+2. **Contrôle du Décalage Prométhéen** : Réduire l'écart critique entre nos **outils dits "intelligents"** (puissance de calcul brute) et les **superviseurs humains limités** (lenteur de la plasticité et des besoins du travailleur).
+3. **Services** : **Audit, structuration et fiabilité** de systèmes critiques ou hybrides où l'humain doit rester l'architecte conscient.
 
 ---
 
