@@ -1,9 +1,10 @@
-# Sayca Labs | Ingénierie de la Fiabilité Humain-Système
+# Ingénierie de la Fiabilité Humain-Système
+> Initiateur du projet Sayca Labs
 
 **Depuis 2022**, je travaille à sécuriser l'interface entre la **rigueur déterministe** (ce que la machine exécute) et la **fluidité cognitive** (ce que l'humain supervise). Mon objectif est d'architecturer des systèmes où l'outil technologique ne dépasse pas la capacité de supervision de son opérateur.
 
-## 🎯 Ma proposition de valeur
-Je modélise les interactions entre opérateurs humains et agents artificiels (LLM, processus automatisés) pour détecter les goulots d'étranglement et l'inertie décisionnelle.
+## 🎯 En quoi puis-je vous servir ?
+Je modélise les interactions entre opérateurs humains et agents artificiels (LLM, processus automatisés) pour détecter les goulots d'étranglement et l'inertie décisionnelle. Je développe ensuite l'infrastructure logicielle modulaire.
 
 En parallèle de mon cursus à **42 Nice**, je conçois des logiciels complets alliant performance bas-niveau (C) et abstraction haut-niveau (Python), pour garantir des solutions techniquement saines et humainement pilotables.
 
