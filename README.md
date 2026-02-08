@@ -52,6 +52,8 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 * **[Triadic Intelligence]** : *Protocole formant les utilisateurs à un usage "bicéphale" des intelligences artificielles génératives et agentiques.*
 * **[Projet C/42]** : *Je ne suis pas autorisé à rendre public mes dépôts liés aux projets 42 -> [Voir mes autres dépôts github](https://github.com/devSayca?tab=repositories)*
 
+</details>
+
 ---
 
 <details>
