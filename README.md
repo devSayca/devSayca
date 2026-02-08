@@ -3,16 +3,20 @@
 
 ---
 
-### 🚀 Solidifier l'IA et le bas-niveau en infrastructure de profit
+<details>
+  <summary>### 🚀 Solidifier l'IA et le bas-niveau en infrastructure de profit</summary>
 Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisible qui transforme les processus manuels coûteux en **marge nette**. Mon approche fusionne la rigueur du **bas-niveau (C)** avec la puissance des **systèmes autonomes (Python/IA)** pour garantir des solutions robustes, auditables et souveraines.
 
 * **Souveraineté :** Vos données restent sous votre contrôle, hors des clouds publics.
 * **Performance :** Optimisation bas-niveau pour traiter des volumes massifs avec efficacité.
 * **ROI :** Automatisation critique des flux administratifs et logistiques.
 
+</details>
+
 ---
 
-### 🛠️ Stack Technique & Expertise
+<details>
+  <summary>### 🛠️ Stack Technique & Expertise</summary>
 
 | Domaine | Technologies | Objectif |
 | :--- | :--- | :--- |
@@ -21,9 +25,12 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 | **Infrastructure** | `Docker`, `Linux`, `Git` | Des environnements isolés, sécurisés et souverains. |
 | **Génie Logiciel** | `Modularité`, `Clean Code` | Protocoles d'users-to-LLM pour fiabiliser davantage le LowCode inclusif. |
 
+</details>
+
 ---
 
-### 📂 Projets actuels (Sayca Labs)
+<details>
+  <summary>### 📂 Projets actuels (Sayca Labs)</summary>
 * **[MOBILE C.B.U]** : *Transformation de smartphones Android en terminaux d'ingénierie via la superposition d'environnements **Termux x Debian**. Exploitation des API système via **Shizuku** pour le déploiement de serveurs mobiles d'injection, de scan de protocoles et de pilotes LLM pour automates industriels.*
 * **[Sailor Energy]** : *Optimisation de flux agentiques et logistiques via systèmes autonomes appliqués à la régie publicitaire physique.*
 * **[Triadic Intelligence]** : *Protocole formant les utilisateurs à un usage "bicéphale" des intelligences artificielles génératives et agentiques.*
@@ -31,9 +38,12 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 
 ---
 
-### 📊 Progression & Engagement (2026)
+<details>
+  <summary>### 📊 Progression & Engagement (2026)</summary>
 * **Actuellement sur :** Approfondissement de la programmation concurrente (`Threads`, `Mutex`) et du protocole MCP. Passages du bas-niveau au haut-niveau récurrents.
 * **Rôle :** Ambassadeur à l'École **42 Nice**, formé à la résolution de problèmes complexes par le "peer-learning".
+
+</details>
 
 ---
 
