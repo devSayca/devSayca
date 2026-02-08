@@ -2,7 +2,7 @@
 ![Structure](https://img.shields.io/badge/Raison_Sociale-Sayca_Labs-orange?style=for-the-badge)
 
 ## Architecture de Systèmes Autonomes 🏗️
-**Fondateur de Sayca Labs** : *Ingénierie Logicielle & Systèmes Souverains*
+**Fondateur de Sayca Labs** - Ingénierie Logicielle & Systèmes Souverains
 
 *Raison sociale pour mes activités de développement informatique.*
 
