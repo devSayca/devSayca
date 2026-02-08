@@ -26,7 +26,7 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 ---
 
 <details>
-  <summary>🛠️ Compétences en développement (Tech Stack)</summary>
+  <summary>🛠️ Compétences en développement "Tech Stack"</summary>
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -46,7 +46,7 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 ---
 
 <details>
-  <summary>📂 Projets actuels (Sayca Labs)</summary>
+  <summary>📂 Projets actuels</summary>
   
 * **[MOBILE C.B.U]** : *Transformation de smartphones Android en terminaux d'ingénierie via la superposition d'environnements **Termux x Debian**. Exploitation des API système via **Shizuku** pour le déploiement de serveurs mobiles d'injection, de scan de protocoles et de pilotes LLM pour automates industriels.*
 * **[Sailor Energy]** : *Optimisation de flux agentiques et logistiques via systèmes autonomes appliqués à la régie publicitaire physique.*
@@ -58,7 +58,7 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 ---
 
 <details>
-  <summary>📊 Progression & Engagement (2026)</summary>
+  <summary>📊 Progression & Engagement</summary>
   
 * **Actuellement sur :** Approfondissement de la programmation concurrente (`Threads`, `Mutex`) et du protocole MCP. Passages du bas-niveau au haut-niveau récurrents.
 * **Rôle :** Ambassadeur à l'École **42 Nice**, formé à la résolution de problèmes complexes par le "peer-learning".
@@ -68,7 +68,7 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 ---
 
 <details>
-  <summary>🎯 Objectifs 2026, Collaborations, Méthodologie de travail</summary>
+  <summary>🎯 Objectifs, Collaborations, Méthodologie de travail</summary>
 
 Je suis actuellement à l'écoute d'opportunités stratégiques pour propulser mon expertise au niveau supérieur :
 
