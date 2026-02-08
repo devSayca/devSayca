@@ -1,4 +1,5 @@
-# Jason Ferone | Architecture de Systèmes Autonomes 🏗️
+# Jason Ferone
+## Architecture de Systèmes Autonomes 🏗️
 **Fondateur de Sayca Labs** • Expertise en Infrastructure IA Souveraine & Systèmes B2B
 
 ---
