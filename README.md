@@ -4,7 +4,7 @@
 ---
 
 <details>
-  <summary>### 🚀 Solidifier l'IA et le bas-niveau en infrastructure de profit</summary>
+  <summary>🚀 Solidifier l'IA et le bas-niveau en infrastructure de profit</summary>
 Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisible qui transforme les processus manuels coûteux en **marge nette**. Mon approche fusionne la rigueur du **bas-niveau (C)** avec la puissance des **systèmes autonomes (Python/IA)** pour garantir des solutions robustes, auditables et souveraines.
 
 * **Souveraineté :** Vos données restent sous votre contrôle, hors des clouds publics.
