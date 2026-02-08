@@ -1,5 +1,6 @@
 ## Architecture de Systèmes Autonomes 🏗️
 **Fondateur de Sayca Labs**
+
 Expertise en Infrastructure IA Souveraine & Systèmes B2B
 
 ---
