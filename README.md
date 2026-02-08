@@ -7,6 +7,7 @@ Expertise en Infrastructure IA Souveraine & Systèmes B2B
 
 <details>
   <summary>🚀 Solidifier l'IA et le bas-niveau en infrastructure de profit</summary>
+  
 Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisible qui transforme les processus manuels coûteux en **marge nette**. Mon approche fusionne la rigueur du **bas-niveau (C)** avec la puissance des **systèmes autonomes (Python/IA)** pour garantir des solutions robustes, auditables et souveraines.
 
 * **Souveraineté :** Vos données restent sous votre contrôle, hors des clouds publics.
@@ -33,6 +34,7 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 
 <details>
   <summary>📂 Projets actuels (Sayca Labs)</summary>
+  
 * **[MOBILE C.B.U]** : *Transformation de smartphones Android en terminaux d'ingénierie via la superposition d'environnements **Termux x Debian**. Exploitation des API système via **Shizuku** pour le déploiement de serveurs mobiles d'injection, de scan de protocoles et de pilotes LLM pour automates industriels.*
 * **[Sailor Energy]** : *Optimisation de flux agentiques et logistiques via systèmes autonomes appliqués à la régie publicitaire physique.*
 * **[Triadic Intelligence]** : *Protocole formant les utilisateurs à un usage "bicéphale" des intelligences artificielles génératives et agentiques.*
@@ -42,6 +44,7 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 
 <details>
   <summary>📊 Progression & Engagement (2026)</summary>
+  
 * **Actuellement sur :** Approfondissement de la programmation concurrente (`Threads`, `Mutex`) et du protocole MCP. Passages du bas-niveau au haut-niveau récurrents.
 * **Rôle :** Ambassadeur à l'École **42 Nice**, formé à la résolution de problèmes complexes par le "peer-learning".
 
@@ -50,12 +53,14 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 ---
 
 ### 📬 Connexion & Réseau
+
 * 💼 **LinkedIn :** [Jason Ferone](https://linkedin.com/in/jason-ferone) — *Stratégie B2B & Partenariats*
 * 🧠 **Instagram :** [@sayca.labs](https://instagram.com/sayca.labs) — *Coulisses techniques & Entreprise informatique*
 
 ---
 
 ### 📜 Manifeste
+
 1.  **L'Humain pilote :** La machine exécute, l'humain supervise.
 2.  **Souveraineté réelle :** L'utilisateur doit posséder et comprendre ses outils.
 3.  **Durabilité :** Bâtir des architectures faites pour durer 10 ans, pas pour suivre une mode.
