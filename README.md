@@ -1,7 +1,13 @@
-## Architecture de Systèmes Autonomes 🏗️
-**Fondateur de Sayca Labs**
+![Stage](https://img.shields.io/badge/Statut-Recherche_de_stage_pour_2027-blue?style=for-the-badge&logo=github)
+![Structure](https://img.shields.io/badge/Entité-Sayca_Labs-orange?style=for-the-badge)
 
-Expertise en Infrastructure IA Souveraine & Systèmes B2B
+## Architecture de Systèmes Autonomes 🏗️
+**Jason Ferone — Fondateur de Sayca Labs** *Ingénierie Logicielle & Systèmes Souverains*
+
+*(Sayca Labs est ma raison sociale pour mes activités de développement et d'innovation)*
+
+Infrastructure IA Modulaire & Souveraine, Systèmes B2B
+[Preuve par le code -> Public repositories](https://github.com/devSayca?tab=repositories)
 
 ---
 
@@ -19,14 +25,20 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 ---
 
 <details>
-  <summary>🛠️ Compétences de développement</summary>
+  <summary>🛠️ Compétences en développement (Tech Stack)</summary>
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![LLM](https://img.shields.io/badge/AI-LLM_RAG-bot?style=flat-square&color=blueviolet)
 
 | Domaine | Technologies | Objectif |
 | :--- | :--- | :--- |
 | **Bas Niveau** | `C`, `Unix`, `Shell` | Maîtriser la vérité matérielle pour ne jamais subir l'abstraction. |
 | **Systèmes Autonomes** | `Python`, `LLM (RAG)`, `APIs` | L'automatisation au service de l'efficacité métier. |
 | **Infrastructure** | `Docker`, `Linux`, `Git` | Des environnements isolés, sécurisés et souverains. |
-| **Génie Logiciel** | `Modularité`, `Clean Code` | Protocoles d'users-to-LLM pour fiabiliser davantage le LowCode inclusif. |
+| **Génie Logiciel** | `Modularité`, `Clean Code` | Protocoles d'users-to-LLM pour la facilité de haut-niveau pour utilisateurs non-techniques. |
 
 </details>
 
@@ -38,7 +50,7 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 * **[MOBILE C.B.U]** : *Transformation de smartphones Android en terminaux d'ingénierie via la superposition d'environnements **Termux x Debian**. Exploitation des API système via **Shizuku** pour le déploiement de serveurs mobiles d'injection, de scan de protocoles et de pilotes LLM pour automates industriels.*
 * **[Sailor Energy]** : *Optimisation de flux agentiques et logistiques via systèmes autonomes appliqués à la régie publicitaire physique.*
 * **[Triadic Intelligence]** : *Protocole formant les utilisateurs à un usage "bicéphale" des intelligences artificielles génératives et agentiques.*
-* **[Projet C/42]** : *Je ne suis pas autorisé à rendre public mes dépôts liés aux projets 42.*
+* **[Projet C/42]** : *Je ne suis pas autorisé à rendre public mes dépôts liés aux projets 42 -> [Voir mes autres dépôts github](https://github.com/devSayca?tab=repositories)*
 
 ---
 
@@ -52,11 +64,30 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 
 ---
 
+<details>
+  <summary>🎯 Objectifs 2026, Collaborations, Méthodologie de travail</summary>
+
+Je suis actuellement à l'écoute d'opportunités stratégiques pour propulser mon expertise au niveau supérieur :
+
+* **⚡ Stages (42) :** Recherche de stages techniques exigeants (Bas-niveau, Architecture IA, Infrastructure) au sein d'équipes qui repoussent les limites du possible.
+* **🤝 Partenariats :** Ouvert aux collaborations avec des porteurs de projets souhaitant automatiser leurs flux critiques via des systèmes autonomes et souverains.
+* **🚀 Sayca Labs :** Développement continu de solutions B2B sous ma propre structure.
+
+### ⚙️ Méthodologie de travail
+
+* **Documentation First :** Aucun code n'est produit sans une spécification claire de l'architecture.
+* **Auditabilité :** Code modulaire, commenté et structuré pour être audité par des tiers.
+* **Approche Unix :** "Faire une seule chose, mais la faire bien." Priorité à la stabilité sur la sur-fonctionnalité.
+
+</details>
+
+---
+
 ### 📬 Connexion & Réseau
 
-* 💼 **LinkedIn :** [Jason Ferone](https://linkedin.com/in/jason-ferone) — *Stratégie B2B & Partenariats*
+* 💼 **[Me contacter sur LinkedIn](https://linkedin.com/in/sayca)** — *Stratégie B2B & Partenariats*
 * 🧠 **Instagram :** [@sayca.labs](https://instagram.com/sayca.labs) — *Coulisses techniques & Entreprise informatique*
-
+* **42 Nice :** <https://42nice.fr>
 ---
 
 ### 📜 Manifeste
