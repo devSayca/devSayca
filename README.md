@@ -7,6 +7,7 @@
 *Raison sociale pour mes activités de développement informatique.*
 
 Infrastructure IA Modulaire & Souveraine, Systèmes B2B
+
 [Preuve par le code -> Public repositories](https://github.com/devSayca?tab=repositories)
 
 ---
