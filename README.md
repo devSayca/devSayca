@@ -1,12 +1,10 @@
-![Stage](https://img.shields.io/badge/Statut-Recherche_de_stage_pour_2027-blue?style=for-the-badge&logo=github)
 ![Structure](https://img.shields.io/badge/Raison_Sociale-Sayca_Labs-orange?style=for-the-badge)
+![Stage](https://img.shields.io/badge/Statut-Recherche_de_stage_pour_2027-blue?style=for-the-badge&logo=github)
 
 ## Architecture de Systèmes Autonomes 🏗️
 **Fondateur de Sayca Labs** - Ingénierie Logicielle & Systèmes Souverains
 
-*Raison sociale pour mes activités de développement informatique.*
-
-Infrastructure IA Modulaire & Souveraine, Systèmes B2B
+Développeur en infrastructure IA Modulaire & Souveraine, Logiciels et Systèmes B2B
 
 [Preuve par le code -> Public repositories](https://github.com/devSayca?tab=repositories)
 
@@ -48,10 +46,10 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 <details>
   <summary>📂 Projets actuels</summary>
   
-* **[MOBILE C.B.U]** : *Transformation de smartphones Android en terminaux d'ingénierie via la superposition d'environnements **Termux x Debian**. Exploitation des API système via **Shizuku** pour le déploiement de serveurs mobiles d'injection, de scan de protocoles et de pilotes LLM pour automates industriels.*
+* **[MOBILE C.B.U]** : *Déploiement de terminaux de diagnostic terrain, interfaçage bas-niveau avec automates industriels et monitoring de flux de données sécurisés via Shizuku/Termux.*
 * **[Sailor Energy]** : *Optimisation de flux agentiques et logistiques via systèmes autonomes appliqués à la régie publicitaire physique.*
 * **[Triadic Intelligence]** : *Protocole formant les utilisateurs à un usage "bicéphale" des intelligences artificielles génératives et agentiques.*
-* **[Projet C/42]** : *Je ne suis pas autorisé à rendre public mes dépôts liés aux projets 42 -> [Voir mes autres dépôts github](https://github.com/devSayca?tab=repositories)*
+* **[Projet C/42]** : *Projets académiques (42) sous licence privée conformément à la charte de l'école. Focus : Réimplémentation de bibliothèques standards (Libft), systèmes de fichiers et gestion mémoire. -> [Voir mes autres dépôts github](https://github.com/devSayca?tab=repositories)*
 
 </details>
 
