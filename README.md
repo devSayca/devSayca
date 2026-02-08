@@ -16,7 +16,7 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 ---
 
 <details>
-  <summary>### 🛠️ Stack Technique & Expertise</summary>
+  <summary>🛠️ Compétences de développement</summary>
 
 | Domaine | Technologies | Objectif |
 | :--- | :--- | :--- |
@@ -30,7 +30,7 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 ---
 
 <details>
-  <summary>### 📂 Projets actuels (Sayca Labs)</summary>
+  <summary>📂 Projets actuels (Sayca Labs)</summary>
 * **[MOBILE C.B.U]** : *Transformation de smartphones Android en terminaux d'ingénierie via la superposition d'environnements **Termux x Debian**. Exploitation des API système via **Shizuku** pour le déploiement de serveurs mobiles d'injection, de scan de protocoles et de pilotes LLM pour automates industriels.*
 * **[Sailor Energy]** : *Optimisation de flux agentiques et logistiques via systèmes autonomes appliqués à la régie publicitaire physique.*
 * **[Triadic Intelligence]** : *Protocole formant les utilisateurs à un usage "bicéphale" des intelligences artificielles génératives et agentiques.*
@@ -39,7 +39,7 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 ---
 
 <details>
-  <summary>### 📊 Progression & Engagement (2026)</summary>
+  <summary>📊 Progression & Engagement (2026)</summary>
 * **Actuellement sur :** Approfondissement de la programmation concurrente (`Threads`, `Mutex`) et du protocole MCP. Passages du bas-niveau au haut-niveau récurrents.
 * **Rôle :** Ambassadeur à l'École **42 Nice**, formé à la résolution de problèmes complexes par le "peer-learning".
 
