@@ -1,5 +1,5 @@
 ![Stage](https://img.shields.io/badge/Statut-Recherche_de_stage_pour_2027-blue?style=for-the-badge&logo=github)
-![Structure](https://img.shields.io/badge/Entité-Sayca_Labs-orange?style=for-the-badge)
+![Structure](https://img.shields.io/badge/Raison_Sociale-Sayca_Labs-orange?style=for-the-badge)
 
 ## Architecture de Systèmes Autonomes 🏗️
 **Jason Ferone — Fondateur de Sayca Labs** *Ingénierie Logicielle & Systèmes Souverains*
