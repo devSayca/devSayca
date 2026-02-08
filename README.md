@@ -2,9 +2,9 @@
 ![Structure](https://img.shields.io/badge/Raison_Sociale-Sayca_Labs-orange?style=for-the-badge)
 
 ## Architecture de Systèmes Autonomes 🏗️
-**Jason Ferone — Fondateur de Sayca Labs** *Ingénierie Logicielle & Systèmes Souverains*
+**Fondateur de Sayca Labs** — *Ingénierie Logicielle & Systèmes Souverains*
 
-*(Sayca Labs est ma raison sociale pour mes activités de développement et d'innovation)*
+*Raison sociale pour mes activités de développement informatique.*
 
 Infrastructure IA Modulaire & Souveraine, Systèmes B2B
 [Preuve par le code -> Public repositories](https://github.com/devSayca?tab=repositories)
