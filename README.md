@@ -2,8 +2,8 @@
 ![Mission](https://img.shields.io/badge/Activités-Disponible_pour_missions-green?style=for-the-badge)
 ![Stage](https://img.shields.io/badge/RNCP-Recherche_de_stage_pour_2027-blue?style=for-the-badge&logo=github)
 
-## Architecture de Systèmes Autonomes 🏗️
-**Fondateur de Sayca Labs** - Ingénierie Logicielle & Systèmes Souverains
+## Logiciels & Systèmes Autonomes 🏗️
+**Fondateur de Sayca Labs** - Génie Logiciel & Systèmes Souverains
 
 Développeur en infrastructure IA Modulaire & Souveraine, Logiciels et Systèmes B2B
 
