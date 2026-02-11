@@ -1,4 +1,4 @@
-![Structure](https://img.shields.io/badge/Raison_Sociale-Sayca_Labs-orange?style=for-the-badge)
+![Structure](https://img.shields.io/badge/R&D_Lab-Sayca_Labs-orange?style=for-the-badge)
 ![Mission](https://img.shields.io/badge/Activités-Disponible_pour_missions-green?style=for-the-badge)
 ![Stage](https://img.shields.io/badge/RNCP-Recherche_de_stage_pour_2027-blue?style=for-the-badge&logo=github)
 
