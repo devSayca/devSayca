@@ -1,25 +1,8 @@
 <h1 style="text-align:center;">🫡 Bonjour, my name is Sayca 🥖</h2>
 
-## **[📜 DRAFT - Systems development meta-language v0.66.0](https://github.com/Sayca-Jferone/DRAFT/)**
+## **[📜 DRAFT Matrix - Universal development formal method](https://github.com/Sayca-Jferone/DRAFT/)**
 
-A **5-axis coordinate space** (Emergence, Conditions, Conception, Incarnation, Experience) designed to reduce developer cognitive load through staged logical resolution, from fuzzy intent to live systems.
-
-<details>
-<summary>Click here to expand DRAFT short description</summary>
-
-> 0. Establish the logical invariance bridge required to compact complex concepts into pure, iterated engineering specifications, cross-checking system entropy.
-
-> 1. Detecting silent degradations induced by unspecified vibe-coding, lazy engineering, and generated code averaging.
-
-> 2. Design, specify, audit with a **5-dimension tool**. From the fuzziest ideas to live systems.
-
-> 3. For all developers, with or without AI algo-assistance, up to strictly autonomous Agentic use.
-
-> 4. Roadmap: living, versioned meta-contracts, logical assertions, and finite state machines - target D2/D3 formalization, not yet implemented.
-
-> **[ETHICS]** DRAFT is a neutral tool, not a neutral usage. Forbidden: circumventing safety guardrails (human or AI), exploiting a system's behavioral flaws. Allowed: logical audit (D2/D3) to document, understand, improve, within the system's provider terms.
-
-</details>
+A **5-dimensions invariant matrix** designed to reduce developer cognitive load through staged logical resolution, from fuzzy intent to live systems.
 
 # 🧠 Posture
 
