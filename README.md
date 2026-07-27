@@ -1,6 +1,6 @@
 <h1 style="text-align:center;">🫡 Bonjour, my name is Sayca 🥖</h2>
 
-## **[📜 DRAFT Matrix - Universal development formal method](https://github.com/Sayca-Jferone/DRAFT/)**
+## **[📜 DRAFT - Universal development formal method](https://github.com/Sayca-Jferone/DRAFT/)**
 
 A **5-dimensions invariant matrix** designed to reduce developer cognitive load through staged logical resolution, from fuzzy intent to live systems.
 
