@@ -2,7 +2,15 @@
 
 ## **[📜 DRAFT - Universal development formal method](https://github.com/Sayca-Jferone/DRAFT/)**
 
-A **5-dimensions invariant matrix** designed to reduce developer cognitive load through staged logical resolution, from fuzzy intent to live systems.
+> ❔ It's a 5-dimensions invariant matrix designed to reduce developer cognitive load through staged logical resolution, from fuzzy intent to live systems.
+
+⚠️ 1. The question if a system is "vibe-coded" or "native-coded" becomes now
+irrelevant once the system has passed through DRAFT and been audited -
+the origin no longer predicts the outcome.
+
+⚠️ 2. **DRAFT viability:** *"DRAFT made me realize that no source of design (whether human or artificial, individual or consensual) guarantees validity in itself; only the structured confrontation of several such sources reduces the risk of undetected error."*
+
+---
 
 # 🧠 Posture
 
