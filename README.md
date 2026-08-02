@@ -1,5 +1,7 @@
 <h1 style="text-align:center;">🫡 Bonjour, my name is Sayca 🥖</h2>
 
+📜 **Ethical corpus**: [ETHICS.md (EN)](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) · [ETHICS.fr.md (FR)](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
+
 ## **[📜 DRAFT - Universal development formal method](https://github.com/Sayca-Jferone/DRAFT/)**
 
 > ❔ DRAFT is a **5-dimensions invariant matrix**, designed to reduce human/AI cognitive load through staged logical resolution, from the worst fuzzy intents to the most robust live systems.
