@@ -1,6 +1,6 @@
-<h1 style="text-align:center;">🫡 Bonjour, my name is Sayca 🥖</h2>
+<h1 style="text-align:center;">🥖 Bonjour Monde 🇫🇷</h2>
 
-📜 **Ethical corpus**: [ETHICS.md (EN)](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) · [ETHICS.fr.md (FR)](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
+📜 **Ethical corpus**: [ETHICS 🇬🇧](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) [ETHICS 🇫🇷](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
 
 ## **[📜 DRAFT - Universal development formal method](https://github.com/Sayca-Jferone/DRAFT/)**
 
