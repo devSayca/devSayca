@@ -18,8 +18,7 @@
 
 > 3. Multi-channel communication between human/LLM agents through self-documenting architectures (DRAFT matrix, BIOPGE logic blocks, Markdown, RAG VectorDB).
 
-<details>
-<summary>Tech stack</summary>
+# 🔃 Tech stack
 
 | | Techs |
 |:---|:---|
