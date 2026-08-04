@@ -1,10 +1,10 @@
-<h1 style="text-align:center;">🥖 Bonjour Monde 🇫🇷</h2>
+<h1 style="text-align:center;">🥖 Hello there 🇫🇷</h2>
 
-📜 **Ethical corpus**: [ETHICS 🇬🇧](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) [ETHICS 🇫🇷](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
+📜 **Ethical corpus** : [ETHICS 🇬🇧](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) [ETHICS 🇫🇷](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
 
-## **[📜 DRAFT - Universal development formal method](https://github.com/Sayca-Jferone/DRAFT/)**
+## **[⬠ DRAFT ⬠ Systems orthogonal development method](https://github.com/Sayca-Jferone/DRAFT)**
 
-> ❔ DRAFT is a **5-dimensions invariant matrix**, designed to reduce human/AI cognitive load through staged logical resolution, from the worst fuzzy intents to the most robust live systems.
+> ❔ DRAFT is a **5-dimensions invariant matrix**, designed to reduce cognitive load throught systems development journey, under staged logical resolution.
 
 ---
 
@@ -34,10 +34,10 @@
 | Repo | Description |
 |---|---|
 | 42next curriculum toward RNCP 7 | Intensive computer science studies. Application ground for DRAFT and team work. Unlicensed deliverables publication coming (H2 2026). |
-| [`DRAFT`](https://github.com/Sayca-Jferone/DRAFT) | Open Source 5-dimension cognitive matrix. Applicable to any domain, any agent, any level of initial ambiguity. |
-| [`PACT (deprecated)`](https://github.com/Sayca-Jferone/PACT_SoftwareEngineering) | DRAFT's precursor: an attempt to reunify formal protocols (B Method, VDM) whose completeness fragments individual adoption. Superseded by DRAFT, which isolates the minimal layer actionable by a solo practitioner. |
-| [`Saycalabs.com`](https://saycalabs.com) | Domain hosting my interactive services and extra-42 portfolio. |
-| [`dotfiles`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/dotfiles) | Modular shell configs for WSL2, Linux, macOS |
+| [`DRAFT`](https://github.com/Sayca-Jferone/DRAFT) | Open-source formal method under a 5-dimension invariant matrix. Applicable to any domain, any agent, any user's skills level. |
+| [`NOESIS`] WIP | Portable epistemic substrate engine. Indexing, crystallizing and retrieving structured knowledge across inference cores. More quality in knowledge bases, less inference cost. |
+| [`PACT (archived)`](https://github.com/Sayca-Jferone/PACT_SoftwareEngineering) | DRAFT's precursor: an attempt to reunify formal protocols (B Method, VDM) whose completeness fragments individual adoption. Superseded by DRAFT, which isolates the minimal layer actionable by a solo practitioner. |
+| [`Saycalabs.com`](https://saycalabs.com) | Domain hosting my interactive services + extra-42 portfolio. |
 
 ---
 
