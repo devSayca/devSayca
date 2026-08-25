@@ -2,9 +2,9 @@
 
 📜 **Ethical corpus** : [ETHICS 🇬🇧](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) [ETHICS 🇫🇷](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
 
-## **[⬠ DRAFT ⬠ Systems orthogonal development method](https://github.com/Sayca-Jferone/DRAFT)**
+## **[⬠DRAFT⬠ Non-Existents deflating formal method](https://github.com/Sayca-Jferone/DRAFT)**
 
-> ❔ DRAFT is a **5-dimensions invariant matrix**, designed to reduce cognitive load throught systems development journey, under staged logical resolution.
+> ❔ DRAFT belongs to any-domain Systems development, audits, forks and stress-tests. Designed to reduce cognitive load under staged logical resolution.
 
 ---
 
