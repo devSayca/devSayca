@@ -2,7 +2,7 @@
 
 📜 **Ethical corpus** : [ETHICS 🇬🇧](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.md) [ETHICS 🇫🇷](https://github.com/sayca-jferone/sayca-jferone/blob/main/ETHICS.fr.md)
 
-## **[⬠DRAFT⬠ Non-Existents deflating formal method](https://github.com/Sayca-Jferone/DRAFT)**
+## **[⬠DRAFT⬠ Deflating development formal method](https://github.com/Sayca-Jferone/DRAFT)**
 
 > ❔ DRAFT belongs to any-domain Systems development, audits, forks and stress-tests. Designed to reduce cognitive load under staged logical resolution.
 
