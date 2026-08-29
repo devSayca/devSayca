@@ -10,7 +10,7 @@
 
 # 🧠 Posture
 
-> 0. Passive recon / CTF profile: operates as an advanced user in systems where developer-level permissions are out of reach.
+> 0. I reject popular mental limitations and judgments of exogenous systems and methodologies, because they prevent the discovery of solutions of rupture.
 
 > 1. Systems modeling in contracts, flows, and invariants, to transduce logical blocks into a system at its maximum scalability.
 
